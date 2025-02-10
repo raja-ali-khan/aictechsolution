@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="css/plugins/swiper.min.css">
     <!-- itsulu css -->
     <link rel="stylesheet" href="css/style.css">
-    <title>ITSulu</title>
+    <title>AIC Tech Solution</title>
 </head>
 
 <body>
@@ -35,7 +35,6 @@
     <!-- itsulu js -->
     <script src="js/main.js"></script>
     <script src="js/forms.js"></script>
-
 </body>
 
 </html>

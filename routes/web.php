@@ -8,20 +8,40 @@ Route::get('/', function () {
 
 // local
 // production
-if(env('APP_ENV') == 'local'){
+if (env('APP_ENV') == 'local') {
     Route::get('/index', function () {
-        return view('index');
+        $data = [
+            'header_type' => 'index'
+        ];
+        return view('index', $data);
     });
 
     Route::get('/about-us', function () {
-        return view('about-us');
+
+        $data = [
+            'header_type' => 'about-us'
+        ];
+        return view('about-us', $data);
     });
 
     Route::get('/contact-us', function () {
-        return view('contact-us');
+        $data = [
+            'header_type' => 'contact-us'
+        ];
+        return view('contact-us', $data);
     });
 
     Route::get('/services', function () {
-        return view('services');
+        $data = [
+            'header_type' => 'services'
+        ];
+        return view('services', $data);
+    });
+
+    Route::get('/solution', function () {
+        $data = [
+            'header_type' => 'solution'
+        ];
+        return view('solution', $data);
     });
 }

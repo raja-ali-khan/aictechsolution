@@ -1,23 +1,25 @@
 <!-- top bar -->
 <div class="mil-top-position mil-fixed">
-    <div class="mil-top-panel mil-top-panel-transparent mil-animated">
+    <div class="mil-top-panel
+    @if($header_type == 'index') mil-top-panel-transparent mil-animated @endif
+    ">
         <!-- mil-top-panel-transparent -->
         <div class="container">
-            <a href="home-1.html" class="mil-logo" style="width: 140px"></a>
+            <a href="index" class="mil-logo" style="width: 140px"></a>
             <div class="mil-navigation">
                 <nav>
                     <ul>
                         <li class="mil-has-children">
                             <a href="#.">Enterprise</a>
                             <ul>
-                                <li><a href="home-2.html">Home V2</a></li>
+                                {{-- <li><a href="home-2.html">Home V2</a></li> --}}
                                 <li><a href="about-us">About us</a></li>
-                                <li><a href="team.html">Team</a></li>
+                                {{-- <li><a href="team.html">Team</a></li>
                                 <li><a href="team-single.html">Team Member</a></li>
                                 <li><a href="careers.html">Careers</a></li>
                                 <li><a href="prices.html">Prices</a></li>
                                 <li><a href="faq.html">FAQ</a></li>
-                                <li><a href="event.html">Event</a></li>
+                                <li><a href="event.html">Event</a></li> --}}
                             </ul>
                         </li>
                         <li><a href="portfolio.html">Case Studies</a></li>
@@ -25,17 +27,17 @@
                             <a href="#.">Services</a>
                             <ul>
                                 <li><a href="services">Service 1</a></li>
-                                <li><a href="service-2.html">Service 2</a></li>
+                                {{-- <li><a href="service-2.html">Service 2</a></li>
                                 <li><a href="service-3.html">Service 3</a></li>
-                                <li><a href="service-4.html">Service 4</a></li>
+                                <li><a href="service-4.html">Service 4</a></li> --}}
                             </ul>
                         </li>
                         <li class="mil-has-children">
                             <a href="#.">Solutions</a>
                             <ul>
-                                <li><a href="solution-1.html">Solution 1</a></li>
-                                <li><a href="solution-2.html">Solution 2</a></li>
-                                <li><a href="solution-3.html">Solution 3</a></li>
+                                <li><a href="solution">Solution 1</a></li>
+                                {{-- <li><a href="solution-2.html">Solution 2</a></li>
+                                <li><a href="solution-3.html">Solution 3</a></li> --}}
                             </ul>
                         </li>
                         <li><a href="blog.html">Blog</a></li>

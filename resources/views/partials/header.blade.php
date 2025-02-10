@@ -11,7 +11,7 @@
                             <a href="#.">Enterprise</a>
                             <ul>
                                 <li><a href="home-2.html">Home V2</a></li>
-                                <li><a href="about.html">About us</a></li>
+                                <li><a href="about-us">About us</a></li>
                                 <li><a href="team.html">Team</a></li>
                                 <li><a href="team-single.html">Team Member</a></li>
                                 <li><a href="careers.html">Careers</a></li>
@@ -24,7 +24,7 @@
                         <li class="mil-has-children">
                             <a href="#.">Services</a>
                             <ul>
-                                <li><a href="service-1.html">Service 1</a></li>
+                                <li><a href="services">Service 1</a></li>
                                 <li><a href="service-2.html">Service 2</a></li>
                                 <li><a href="service-3.html">Service 3</a></li>
                                 <li><a href="service-4.html">Service 4</a></li>
@@ -39,7 +39,7 @@
                             </ul>
                         </li>
                         <li><a href="blog.html">Blog</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="contact-us">Contact Us</a></li>
                         <li class="mil-has-children">
                             <a href="#.">Other</a>
                             <ul>

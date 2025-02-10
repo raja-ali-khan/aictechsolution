@@ -7,7 +7,6 @@ Route::get('/', function () {
 });
 
 // local
-// staging - testing
 // production
 if(env('APP_ENV') == 'local'){
     Route::get('/index', function () {

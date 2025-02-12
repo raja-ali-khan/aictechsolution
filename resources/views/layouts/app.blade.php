@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -14,11 +14,13 @@
     <link rel="stylesheet" href="css/plugins/swiper.min.css">
     <!-- itsulu css -->
     <link rel="stylesheet" href="css/style.css">
-    <title>AIC Tech Solution</title>
+    @vite(['resources/js/app.js'])
+
+    <title>ITSulu</title>
 </head>
 
 <body>
-
+    <!-- Header  -->
     @include('partials.header')
 
     <div id="app">
@@ -28,6 +30,7 @@
     <!-- Footer  -->
     @include('partials.footer')
 
+
     <!-- jQuery js -->
     <script src="js/plugins/jquery.min.js"></script>
     <!-- swiper js -->
@@ -35,6 +38,7 @@
     <!-- itsulu js -->
     <script src="js/main.js"></script>
     <script src="js/forms.js"></script>
+
 </body>
 
 </html>

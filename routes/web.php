@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactFormController;
 
 Route::get('/', function () {
     return view('coming-soon');
@@ -44,4 +45,5 @@ if (env('APP_ENV') == 'local') {
         ];
         return view('solution', $data);
     });
+    Route::post('/contact-us', [ContactFormController::class, 'store']);
 }

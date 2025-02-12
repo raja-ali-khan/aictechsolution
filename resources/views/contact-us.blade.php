@@ -22,13 +22,15 @@
     </div>
     <!-- banner end -->
 
+
+
     <!-- contact -->
     <section class="mil-contact mil-p-120-0">
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-lg-8 col-xl-8 mil-mb-120">
 
-                    <form id="formContact" method="post" enctype="multipart/form-data">
+                    {{-- <form id="formContact" method="post" enctype="multipart/form-data">
 
                         <h4 class="mil-mb-60"><span class="mil-accent">01.</span> Tell Us About Yourself</h4>
 
@@ -147,9 +149,11 @@
                         <div class="alert-error" style="display: none;">
                             <h5>Error! Message could not be sent.</h5>
                         </div>
-                    </form>
+                    </form> --}}
+                    <contact-form></contact-form>
 
                 </div>
+
                 <div class="col-lg-4 col-xl-3 mil-mb-120">
 
                     <div class="mil-mb-60">
@@ -169,7 +173,7 @@
                         <p>For technical questions or billing questions, please contact Customer Care.</p>
                     </div>
 
-                    <div class="mil-mb-60">
+                    {{-- <div class="mil-mb-60">
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                             <img src="img/icons/md/9.svg" alt="icon">
                         </div>
@@ -182,13 +186,17 @@
                     <a href="contact.html" class="mil-link mil-link-sm mil-mb-15"><span>Legality Guide</span><i
                             class="fas fa-arrow-right"></i></a><br>
                     <a href="contact.html" class="mil-link mil-link-sm"><span>Security Center</span><i
-                            class="fas fa-arrow-right"></i></a>
+                            class="fas fa-arrow-right"></i></a> --}}
 
                 </div>
             </div>
         </div>
     </section>
     <!-- contact end -->
+
+
+
+
 
     <!-- map -->
     <div>
@@ -211,7 +219,8 @@
                     <div class="mil-mb-60">
                         <h4 class="mil-mb-30">United States</h4>
                         <h5 class="mil-list-title mil-mb-15">New York</h5>
-                        <p class="mil-mb-30">525, North Tryon Street, Suite 1600, Charlotte, NC 28202-0213</p>
+                        <p class="mil-mb-30">525, North Tryon Street, Suite 1600, Charlotte, NC
+                            28202-0213</p>
                         <div class="mil-divider mil-divider-left mil-mb-30"></div>
 
                         <h6 class="mil-mb-15"><span class="mil-accent">+ 90</span> 700 300 000</h6>
@@ -238,7 +247,8 @@
                     <div class="mil-mb-60">
                         <h4 class="mil-mb-30">France</h4>
                         <h5 class="mil-list-title mil-mb-15">Paris</h5>
-                        <p class="mil-mb-30">397 Bedford Highway, Suite 323 Halifax NS B3M 2L3 Science City Road</p>
+                        <p class="mil-mb-30">397 Bedford Highway, Suite 323 Halifax NS B3M 2L3 Science
+                            City Road</p>
                         <div class="mil-divider mil-divider-left mil-mb-30"></div>
 
                         <h6 class="mil-mb-15"><span class="mil-accent">+ 90</span> 700 300 000</h6>

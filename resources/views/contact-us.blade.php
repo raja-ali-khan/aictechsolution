@@ -25,9 +25,12 @@
 
 
     <!-- contact -->
-    <section class="mil-contact mil-p-120-0">
+    <section class="mil-contact @if($header_type == 'index') mil-gradient-bg  @endif mil-p-120-0">
+        @if($header_type == 'index') <div class="mil-deco mil-deco-accent" style="top: 0; right: 10%;"></div> @endif
         <div class="container">
-            <div class="row justify-content-between">
+            @if($header_type == 'index') <h2 class="mil-light mil-mb-90">Contact <span class="mil-accent">Us</span></h2>
+            @endif
+            <div class="row @if($header_type == 'contact-us') justify-content-between @endif">
                 <div class="col-lg-8 col-xl-8 mil-mb-120">
 
                     {{-- <form id="formContact" method="post" enctype="multipart/form-data">
@@ -193,10 +196,6 @@
         </div>
     </section>
     <!-- contact end -->
-
-
-
-
 
     <!-- map -->
     <div>

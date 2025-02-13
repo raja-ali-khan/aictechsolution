@@ -861,7 +861,7 @@
         <div class="mil-deco mil-deco-accent" style="top: 0; right: 10%;"></div>
         <div class="container">
             <h2 class="mil-light mil-mb-90">Contact <span class="mil-accent">Us</span></h2>
-            <form id="formFeedback" method="post" enctype="multipart/form-data">
+            {{-- <form id="formFeedback" method="post" enctype="multipart/form-data">
                 <div class="row">
                     <div class="col-lg-6">
 
@@ -920,9 +920,15 @@
                 <div class="alert-error" style="display: none;">
                     <h5>Error! Message could not be sent.</h5>
                 </div>
-            </form>
+            </form> --}}
+
+            <contact-form :header-type="'{{ $header_type }}'"></contact-form>
+
         </div>
     </section>
+
+
+
     <!-- contact end -->
 
 </div>

@@ -30,15 +30,17 @@
                     <div class="col-xl-8">
                         <span class="mil-suptitle mil-mb-60"><span class="mil-light">The Next</span> <span
                                 class="mil-accent">Gen</span></span>
-                        <h1 class="mil-mb-60"><span class="mil-uppercase mil-light">We Provide Services <br>and
-                                Solutions</span> <span class="mil-font-3 mil-accent">To Enterprise</span></h1>
+                        <h1 class="mil-mb-60">
+                            <span class="mil-uppercase mil-light">
+                                Welcome to <span class="mil-font-3 mil-accent">AIC Tech Solution</span><br>
+                            </span>
+                        </h1>
                         <div class="mil-flex-hori-center">
                             <div>
                                 <a href="contact.html" class="mil-button mil-border mil-light"><span>Let’s
                                         Talk</span></a>
                             </div>
-                            <p class="mil-button-descr mil-light-soft">Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p class="mil-button-descr mil-light-soft">We specialize in delivering top-notch IT support, cloud solutions, cybersecurity, and system administration services to businesses of all sizes.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -100,7 +102,7 @@
     <!-- banner end -->
 
     <!-- partners -->
-    <div class="mil-partners mil-p-90-60">
+    <!-- <div class="mil-partners mil-p-90-60">
         <div class="container">
             <div class="mil-partners-frame">
                 <a href="#."><img src="img/partners/1.png" alt="partner"></a>
@@ -111,7 +113,7 @@
                 <a href="#."><img src="img/partners/6.png" alt="partner"></a>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- partners end -->
 
     <div class="container">
@@ -125,7 +127,7 @@
             <h2 class="mil-mb-30">How We Can <span class="mil-accent">Help You</span></h2>
             <div class="row">
                 <div class="col-lg-6 col-xl-6">
-                    <h4 class="mil-mb-60 mil-mt-30">IT Services</h4>
+                    <h4 class="mil-mb-60 mil-mt-30">IT Services We Offer</h4>
                     <div class="mil-divider mil-divider-left"></div>
                     <div class="mil-service-item">
                         <div class="mil-service-icon">
@@ -134,9 +136,10 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">01</span> Dedicated Team</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">01</span>Managed IT Services</h5>
+                            <p>24/7 Remote Support: Providing round-the-clock assistance to resolve any IT-related issues promptly.
+                                Network Monitoring & Management: Monitoring network traffic, identifying bottlenecks, and ensuring optimal performance.
+                                Server Management: Administration and maintenance of physical or virtual servers, ensuring smooth operation and security.</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -430,7 +433,7 @@
             <div class="row align-items-end mil-mb-90">
                 <div class="col-xl-6">
 
-                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Our Skill</span>
+                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Our Core Services</span>
                     <h2>Business <span class="mil-accent">Success</span> With <br>Technology</h2>
 
                 </div>
@@ -446,7 +449,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6 col-xl-3">
 
-                    <h6 class="mil-mb-30">Software Development</h6>
+                    <h6 class="mil-mb-30">Cloud Services Management</h6>
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
@@ -458,7 +461,7 @@
                 </div>
                 <div class="col-md-6 col-xl-3">
 
-                    <h6 class="mil-mb-30">Web Development</h6>
+                    <h6 class="mil-mb-30">Cloud infrastructure setup</h6>
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
@@ -470,7 +473,7 @@
                 </div>
                 <div class="col-md-6 col-xl-3">
 
-                    <h6 class="mil-mb-30">UX / UI Design</h6>
+                    <h6 class="mil-mb-30">Microsoft 365 deployment</h6>
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
@@ -482,7 +485,7 @@
                 </div>
                 <div class="col-md-6 col-xl-3">
 
-                    <h6 class="mil-mb-30">App Development</h6>
+                    <h6 class="mil-mb-30">Backup strategy design and implementation</h6>
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
@@ -494,7 +497,7 @@
                 </div>
                 <div class="col-md-6 col-xl-3">
 
-                    <h6 class="mil-mb-30">Internet of Things</h6>
+                    <h6 class="mil-mb-30">Server and desktop virtualization</h6>
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
@@ -506,7 +509,7 @@
                 </div>
                 <div class="col-md-6 col-xl-3">
 
-                    <h6 class="mil-mb-30">Artificial Intelligence</h6>
+                    <h6 class="mil-mb-30">Email migration (Gmail to Office 365, etc.)</h6>
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
@@ -518,7 +521,7 @@
                 </div>
                 <div class="col-md-6 col-xl-3">
 
-                    <h6 class="mil-mb-30">Blockchain</h6>
+                    <h6 class="mil-mb-30">24/7 IT support and troubleshooting</h6>
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
@@ -543,7 +546,7 @@
     </div>
 
     <!-- blog -->
-    <section class="mil-blog mil-p-120-120">
+    <!-- <section class="mil-blog mil-p-120-120">
         <div class="mil-deco" style="top: 0; right: 30%;"></div>
         <div class="container">
             <div class="row align-items-center mil-mb-90">
@@ -696,7 +699,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- blog end -->
 
     <!-- reviews -->
@@ -908,10 +911,9 @@
 
                     </div>
                     <div class="col-12">
-
-                        <button type="submit" class="mil-button mil-accent-bg mil-fw"><span>Send Message
-                                Now</span></button>
-
+                        <button type="submit" class="mil-button mil-accent-bg mil-fw">
+                            <span>Send Message Now</span>
+                        </button>
                     </div>
                 </div>
                 <div class="alert-success" style="display: none;">

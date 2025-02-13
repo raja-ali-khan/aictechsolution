@@ -24,7 +24,7 @@ class ContactFormRequest extends FormRequest
         $rules = [
             'first_name'    => 'required|regex:/\A[A-Za-z\s\-]+\z/|max:100',
             'last_name'    => 'required|regex:/\A[A-Za-z\s\-]+\z/|max:100',
-            'email'   => 'required|email|unique:contact_form,email',
+            'email'   => 'required|email',
             'phone_number' => 'required|numeric',
             'project_description' => 'required|regex:/^[\.a-zA-Z0-9,!? ]*$/',
         ];

@@ -13,7 +13,7 @@
                     <p class="mil-light-soft mil-mb-30">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
                         sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 
-                    <a href="#." class="mil-app-btn mil-mb-5">
+                    <!-- <a href="#." class="mil-app-btn mil-mb-5">
                         <i class="fab fa-google-play"></i>
                         <div class="mil-app-text">
                             <span class="mil-accent mil-text-sm">Available on the</span>
@@ -27,7 +27,7 @@
                             <span class="mil-accent mil-text-sm">Download on the</span>
                             <div class="mil-h6">App Store</div>
                         </div>
-                    </a>
+                    </a> -->
 
                 </div>
                 <div class="col-xl-7 mil-mt-60-adapt">
@@ -35,7 +35,7 @@
                     <div class="row">
                         <div class="col-lg-7 mil-mb-30">
 
-                            <h3 class="mil-light mil-up-font mil-mb-30">Join The <span class="mil-accent">ITSulu</span>
+                            <h3 class="mil-light mil-up-font mil-mb-30">Join The <span class="mil-accent">AIC Tech Solution</span>
                                 <br>Experience
                             </h3>
                             <p class="mil-light-soft">Lorem ipsum dolor sit amet, consectetuer<br> adipiscing elit,
@@ -44,13 +44,13 @@
                         </div>
                         <div class="col-lg-5 mil-mb-30">
 
-                            <form>
+                            <!-- <form>
 
                                 <input class="mil-rounded-input mil-text-center mil-mb-5" type="text"
                                     placeholder="Your email address">
                                 <button class="mil-button mil-accent-bg mil-fw"><span>Subscribe Now</span></button>
 
-                            </form>
+                            </form> -->
 
                         </div>
                     </div>
@@ -69,15 +69,15 @@
                 <li class="mil-adapt-links"><a href="#.">YouTube</a><a href="#.">YT</a></li>
             </ul>
             <ul class="mil-additional-links mil-light">
-                <li><a href="#.">Terms & Condition</a></li>
-                <li><a href="#.">Privacy Policy</a></li>
-                <li><a href="#.">Sitemap</a></li>
+                <li><a href="#.">About us</a></li>
+                <li><a href="#.">Service</a></li>
+                <li><a href="#.">Solution</a></li>
             </ul>
         </div>
     </div>
     <div class="mil-footer-bottom">
         <div class="container">
-            <p class="mil-text-sm mil-light">© ITSulu 2023.</p>
+            <p class="mil-text-sm mil-light">© AIC Tech Solution 2023.</p>
             <p class="mil-text-sm mil-light">All Rights Reserved.</p>
         </div>
     </div>
@@ -93,17 +93,17 @@
             <div class="row align-items-center mil-p-120-60">
                 <div class="col-xl-6 mil-mb-60">
 
-                    <h3 class="mil-light mil-mb-15">Join The <span class="mil-accent">ITSulu</span> Experience</h3>
+                    <h3 class="mil-light mil-mb-15">Join The <span class="mil-accent">AIC Tech Solution</span> Experience</h3>
 
                     <p class="mil-light-soft">Duis autem vel eum iriure dolor in hendrerit in vulputate.</p>
 
                 </div>
                 <div class="col-xl-6 mil-mb-60">
 
-                    <form class="mil-subscribe-form">
+                   <!--  <form class="mil-subscribe-form">
                         <input type="text" placeholder="Your email address">
                         <button type="submit" class="mil-button mil-accent-bg">Subscribe Now</button>
-                    </form>
+                    </form> -->
 
                 </div>
             </div>
@@ -205,7 +205,7 @@
     </div>
     <div class="mil-footer-bottom">
         <div class="container">
-            <p class="mil-text-sm mil-light">© ITSulu 2023.</p>
+            <p class="mil-text-sm mil-light">© AIC Tech Solution 2025.</p>
             <p class="mil-text-sm mil-light">All Rights Reserved.</p>
         </div>
     </div>

@@ -425,7 +425,7 @@
     <!-- ??? end -->
 
     <!-- ??? -->
-    <section class="mil-p-120-120">
+    <!-- <section class="mil-p-120-120">
         <div class="mil-deco" style="top: 0; right: 30%;"></div>
         <div class="container">
             <div class="row align-items-end mil-mb-90">
@@ -503,7 +503,7 @@
             <a href="#." class="mil-link"><span>Let’s Solve Your Challenges With AI</span><i
                     class="fas fa-arrow-right"></i></a>
         </div>
-    </section>
+    </section> -->
     <!-- ??? end -->
 
     <!-- call to action -->

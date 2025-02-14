@@ -162,7 +162,7 @@
                 <div class="col-xl-4">
                     <div class="mil-mb-60">
                         <div class="mil-number-icon mil-lines mil-mb-30">
-                            <span>07</span>
+                            <span>08</span>
                         </div>
                         <h4 class="mil-mb-15">Security Solutions</h4>
                         <p>Cybersecurity is critical in today’s digital world. Our team ensures your business is
@@ -175,7 +175,7 @@
                 <div class="col-xl-4">
                     <div class="mil-mb-60">
                         <div class="mil-number-icon mil-lines mil-mb-30">
-                            <span>07</span>
+                            <span>09</span>
                         </div>
                         <h4 class="mil-mb-15">IT Infrastructure Management</h4>
                         <p>We offer comprehensive IT infrastructure services, from designing and setting up networks to

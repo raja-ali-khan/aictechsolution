@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="css/plugins/font-awesome.min.css">
     <!-- swiper css -->
     <link rel="stylesheet" href="css/plugins/swiper.min.css">
-    <!-- itsulu css -->
+    <!-- AIC Tech Solution css -->
     <link rel="stylesheet" href="css/style.css">
     <title>AIC Tech Solution</title>
 </head>
@@ -58,7 +58,7 @@
                         <!-- <div class="row align-items-center">
                             <div class="col-lg-5">
 
-                                <h4 class="mil-light mil-mb-30">Join The <span class="mil-accent">ITSulu</span><br> Experience</h4>
+                                <h4 class="mil-light mil-mb-30">Join The <span class="mil-accent">AIC Tech Solution</span><br> Experience</h4>
 
                             </div>
                             <div class="col-lg-7">
@@ -83,7 +83,7 @@
 
         <div class="mil-addition-bottom">
             <div class="container-fluid">
-                <p class="mil-text-sm mil-light-soft">© AIC Tech Solution 2025.</p>
+                <p class="mil-text-sm mil-light-soft">© AIC Tech Solution {{ date('Y') }}.</p>
                 <p class="mil-text-sm mil-light-soft">All Rights Reserved.</p>
             </div>
         </div>
@@ -95,7 +95,7 @@
     <script src="js/plugins/jquery.min.js"></script>
     <!-- swiper js -->
     <script src="js/plugins/swiper.min.js"></script>
-    <!-- itsulu js -->
+    <!-- AIC Tech Solution js -->
     <script src="js/main.js"></script>
 
 </body>

@@ -162,8 +162,8 @@
                     <div class="mil-mb-60">
                         <h5 class="mil-list-title mil-mb-30">Support Request</h5>
                         <p class="mil-mb-20">Our experts are ready to answer your questions.</p>
-                        <a href="contact.html" class="mil-link mil-link-sm"><span>Support Now</span><i
-                                class="fas fa-arrow-right"></i></a>
+                        <!-- <a href="contact.html" class="mil-link mil-link-sm"><span>Support Now</span><i
+                                class="fas fa-arrow-right"></i></a> -->
                     </div>
 
                     <div class="mil-divider mil-mb-60"></div>
@@ -198,7 +198,7 @@
     <!-- contact end -->
 
     <!-- map -->
-    <div>
+    <!-- <div>
         <div class="mil-map-frame">
             <iframe
                 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.289421122936!2d-74.0577166!3d40.7107384!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c250aee3ee6da7%3A0xe8a316c6c836011f!2sBuddy&#39;s%20JC!5e0!3m2!1sen!2sua!4v1682071433844!5m2!1sen!2sua"
@@ -206,11 +206,11 @@
                 referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <div class="container"></div>
-    </div>
+    </div> -->
     <!-- map end -->
 
     <!-- contact info -->
-    <section class="mil-p-120-60">
+    <!-- <section class="mil-p-120-60">
         <div class="container">
             <div class="row">
                 <div class="col-xl-4">
@@ -257,7 +257,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- contact info end -->
 
 </div>

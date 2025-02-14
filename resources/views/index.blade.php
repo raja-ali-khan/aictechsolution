@@ -477,7 +477,7 @@
     <!-- portfolio end -->
 
     <!-- how it works -->
-    <section class="mil-how-it-works mil-deep-bg mil-p-120-90">
+    <!-- <section class="mil-how-it-works mil-deep-bg mil-p-120-90">
         <div class="mil-deco" style="top: 0; right: 20%;"></div>
         <div class="mil-deco" style="bottom: 0; left: 30%; transform: rotate(180deg)"></div>
         <div class="container">
@@ -558,7 +558,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- how it works end -->
 
     <!-- skills -->

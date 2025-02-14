@@ -4,8 +4,6 @@
 
 <!-- wrapper -->
 <div class="mil-wrapper">
-
-
     <!-- banner -->
     <div class="mil-banner-sm mil-deep-bg">
         <img src="img/deco/map.png" alt="background" class="mil-background-image">
@@ -16,7 +14,7 @@
                     <li><a href="home-1.html">Home</a></li>
                     <li><a href="service-1.html">Service</a></li>
                 </ul>
-                <h2 class="mil-uppercase">SaaS development services</h2>
+                <h2 class="mil-uppercase">Our Core Services</h2>
             </div>
         </div>
     </div>
@@ -34,14 +32,16 @@
                                 <img src="img/icons/md/1.svg" alt="icon">
                             </div>
                         </div>
-                        <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqu quis ipsum suspendisse ultrices gravida.</h5>
+                        <h5>Proven Expertise: Our team consists of certified IT specialists with hands-on experience
+                            across various industries. We understand the complexities of modern IT environments and
+                            ensure optimal performance for your systems</h5>
                     </div>
                 </div>
                 <div class="col-lg-4">
 
                     <div class="mil-adaptive-right">
-                        <a href="#." class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
+                        <a href="{{route('contact-us')}}" class="mil-button mil-border mil-mb-30"><span>Get in
+                                Touch</span></a>
                     </div>
 
                 </div>
@@ -60,10 +60,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 mil-mb-90">
-                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Services and Solutions</span>
-                    <h2 class="mil-mb-30">Our SaaS Development Services Let You Win Big</h2>
-                    <p class="mil-dark">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                        <br>incididunt ut labore et dolore magna.
+                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Our Services</span>
+                    <h2 class="mil-mb-30">Our Core Services Help You Succeed</h2>
+                    <p class="mil-dark">Personalized Solutions: We don’t believe in one-size-fits-all approaches. <br>We
+                        take the time to understand your business needs and design custom <br> that align with your
+                        goals and budget.
                     </p>
                 </div>
             </div>
@@ -74,9 +75,10 @@
                         <div class="mil-number-icon mil-circle mil-mb-30">
                             <span>01</span>
                         </div>
-                        <h4 class="mil-mb-15">SaaS Development Consulting</h4>
-                        <p>Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure
-                            horrible margaret suitable he followed speedily.</p>
+                        <h4 class="mil-mb-15">Cloud Services Management</h4>
+                        <p>We specialize in managing and maintaining cloud environments, offering services like IONOS
+                            and Azure Cloud administration, ensuring seamless, secure, and scalable solutions. Whether
+                            you're migrating to the cloud or optimizing your existing setup, we’ve got you covered.</p>
                     </div>
 
                 </div>
@@ -86,9 +88,10 @@
                         <div class="mil-number-icon mil-lines mil-mb-30">
                             <span>02</span>
                         </div>
-                        <h4 class="mil-mb-15">SaaS Design and Prototyping</h4>
-                        <p>Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure
-                            horrible margaret suitable he followed speedily.</p>
+                        <h4 class="mil-mb-15">Microsoft 365 Solutions</h4>
+                        <p>Maximize the potential of Microsoft 365 with our expert setup, configuration, and migration
+                            services. We provide a seamless transition to the cloud, ensuring that your team can
+                            collaborate, communicate, and work efficiently.</p>
                     </div>
 
                 </div>
@@ -98,9 +101,10 @@
                         <div class="mil-number-icon mil-mb-30">
                             <span>03</span>
                         </div>
-                        <h4 class="mil-mb-15">End-to-End SaaS Development</h4>
-                        <p>Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure
-                            horrible margaret suitable he followed speedily.</p>
+                        <h4 class="mil-mb-15">Backup and Disaster Recovery</h4>
+                        <p>Your data is invaluable. We provide robust backup and disaster recovery solutions using Datto
+                            BCDR, Acronis, and other leading technologies. In the event of data loss or server downtime,
+                            we ensure that your business can get back on track quickly..</p>
                     </div>
 
                 </div>
@@ -110,9 +114,11 @@
                         <div class="mil-number-icon mil-mb-30">
                             <span>04</span>
                         </div>
-                        <h4 class="mil-mb-15">Migration to SaaS</h4>
-                        <p>Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure
-                            horrible margaret suitable he followed speedily.</p>
+                        <h4 class="mil-mb-15">Virtualization Solutions</h4>
+                        <p>Virtualization is a key part of modern IT infrastructure, and we have the expertise to
+                            implement and manage virtualization technologies like VMware, Hyper-V, and Parallels
+                            Desktop. Our solutions help optimize hardware utilization, improve scalability, and
+                            streamline your operations.</p>
                     </div>
 
                 </div>
@@ -126,36 +132,75 @@
                         <p>Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure
                             horrible margaret suitable he followed speedily.</p>
                     </div>
-
                 </div>
-                <div class="col-xl-4">
 
+                <div class="col-xl-4">
                     <div class="mil-mb-60">
                         <div class="mil-number-icon mil-lines mil-mb-30">
                             <span>06</span>
                         </div>
-                        <h4 class="mil-mb-15">SaaS Support and Maintenance</h4>
-                        <p>Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure
-                            horrible margaret suitable he followed speedily.</p>
+                        <h4 class="mil-mb-15">Email and Collaboration Tools</h4>
+                        <p>Effective communication is the backbone of any organization. We specialize in email
+                            migrations, Office 365 setup, and management, providing a reliable and secure email
+                            solution. We also ensure that collaboration tools are seamlessly integrated for maximum
+                            productivity.</p>
                     </div>
+                </div>
 
+                <div class="col-xl-4">
+                    <div class="mil-mb-60">
+                        <div class="mil-number-icon mil-lines mil-mb-30">
+                            <span>07</span>
+                        </div>
+                        <h4 class="mil-mb-15">IT Support and Consulting</h4>
+                        <p>Our team offers proactive IT support, system administration, and troubleshooting services to
+                            ensure your IT infrastructure is always running at peak performance. We also offer strategic
+                            IT consulting to help businesses leverage technology for growth</p>
+                    </div>
+                </div>
+
+                <div class="col-xl-4">
+                    <div class="mil-mb-60">
+                        <div class="mil-number-icon mil-lines mil-mb-30">
+                            <span>07</span>
+                        </div>
+                        <h4 class="mil-mb-15">Security Solutions</h4>
+                        <p>Cybersecurity is critical in today’s digital world. Our team ensures your business is
+                            protected from threats with the latest security technologies, including malware protection,
+                            firewalls, and endpoint security. We also provide vulnerability assessments and risk
+                            management services.</p>
+                    </div>
+                </div>
+
+                <div class="col-xl-4">
+                    <div class="mil-mb-60">
+                        <div class="mil-number-icon mil-lines mil-mb-30">
+                            <span>07</span>
+                        </div>
+                        <h4 class="mil-mb-15">IT Infrastructure Management</h4>
+                        <p>We offer comprehensive IT infrastructure services, from designing and setting up networks to
+                            ongoing maintenance and monitoring. We ensure that your network is secure, fast, and
+                            scalable to support your business growth.
+                        </p>
+                    </div>
                 </div>
 
             </div>
             <div class="row align-items-center">
                 <div class="col-md-6 col-xl-6">
 
-                    <a href="#." class="mil-button mil-border mil-mb-30"><span>Tell us about your project</span></a>
+                    <a href="{{route('contact-us')}}" class="mil-button mil-border mil-mb-30"><span>Tell us about your
+                            project</span></a>
 
                 </div>
-                <div class="col-md-6 col-xl-6">
+                {{-- <div class="col-md-6 col-xl-6">
 
                     <div class="mil-adaptive-right">
                         <a href="#." class="mil-link mil-mb-30"><span>See More</span><i
                                 class="fas fa-arrow-right"></i></a>
                     </div>
 
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>
@@ -166,7 +211,7 @@
     </div>
 
     <!-- next step -->
-    <section class="mil-p-120-0">
+    {{-- <section class="mil-p-120-0">
         <div class="container">
 
             <div class="mil-text-center mil-mb-90">
@@ -201,11 +246,11 @@
             </div>
 
         </div>
-    </section>
+    </section> --}}
     <!-- next step end -->
 
     <!-- partners -->
-    <div class="mil-partners mil-partners-spaces">
+    {{-- <div class="mil-partners mil-partners-spaces">
         <div class="container">
             <div class="mil-partners-frame">
                 <a href="#."><img src="img/partners/1.png" alt="partner"></a>
@@ -216,7 +261,7 @@
                 <a href="#."><img src="img/partners/6.png" alt="partner"></a>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- partners end -->
 
     <div class="container">
@@ -228,7 +273,7 @@
         <div class="mil-deco" style="bottom: 0; right: 40%; transform: rotate(180deg)"></div>
         <div class="container">
             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">High Quality and Performance</span>
-            <h2 class="mil-mb-90">Our Approach To <span class="mil-accent">SaaS Software</span> Development</h2>
+            <h2 class="mil-mb-90">Our Core Services Empower <span class="mil-accent">Your Growth</span> and Success</h2>
             <div class="row mil-mb-30-adapt">
                 <div class="col-lg-6 col-xl-6">
                     <div class="mil-service-item mil-without-lines mil-mb-60">
@@ -238,9 +283,12 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">01</span> Tech Stack Choice</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">01</span> Cloud infrastructure
+                                setup & Migration and optimization
+                            </h5>
+                            {{-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt
+                                ut labore et dolore magna aliqua.</p> --}}
                         </div>
                     </div>
                 </div>
@@ -252,9 +300,11 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">02</span> Multi Tenant Architecture</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">02</span> Microsoft 365 deployment & Office
+                                365 migration & Microsoft 365 deployment</h5>
+                            {{-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt
+                                ut labore et dolore magna aliqua.</p> --}}
                         </div>
                     </div>
                 </div>
@@ -266,9 +316,12 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">03</span> External Services Integration</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">03</span> Backup strategy design and
+                                implementation & Disaster recovery planning & Backup strategy design and implementation
+                            </h5>
+                            {{-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt
+                                ut labore et dolore magna aliqua.</p> --}}
                         </div>
                     </div>
                 </div>
@@ -280,9 +333,12 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">04</span> Scalability On Demand</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">04</span> Server and desktop virtualization &
+                                Cloud-based virtual environments & Virtual infrastructure management
+                            </h5>
+                            {{-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt
+                                ut labore et dolore magna aliqua.</p> --}}
                         </div>
                     </div>
                 </div>
@@ -294,9 +350,12 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">05</span> Security Audit</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">05</span> Email migration (Gmail to Office
+                                365, etc.) & Exchange server setup and management & Microsoft Teams integration and
+                                support</h5>
+                            {{-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt
+                                ut labore et dolore magna aliqua.</p> --}}
                         </div>
                     </div>
                 </div>
@@ -308,9 +367,12 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">06</span> Smooth Deployment</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">06</span> 24/7 IT support and troubleshooting
+                                & System health monitoring and optimization & IT consulting and strategy development
+                            </h5>
+                            {{-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt
+                                ut labore et dolore magna aliqua.</p> --}}
                         </div>
                     </div>
                 </div>
@@ -319,17 +381,18 @@
             <div class="row align-items-center">
                 <div class="col-md-6 col-xl-6">
 
-                    <a href="#." class="mil-button mil-border mil-mb-30"><span>Talk To Our SaaS Experts</span></a>
+                    <a href="{{route('contact-us')}}" class="mil-button mil-border mil-mb-30"><span>Talk To Our Team
+                            Experts</span></a>
 
                 </div>
-                <div class="col-md-6 col-xl-6">
+                {{-- <div class="col-md-6 col-xl-6">
 
                     <div class="mil-adaptive-right">
                         <a href="#." class="mil-link mil-mb-30"><span>See More</span><i
                                 class="fas fa-arrow-right"></i></a>
                     </div>
 
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>
@@ -341,10 +404,10 @@
         <div class="container">
             <div class="mil-text-center mil-mb-90">
                 <span class="mil-suptitle  mil-light mil-suptitle-2 mil-mb-30">Always The Best</span>
-                <h2 class="mil-light mil-mb-30">Types Of <span class="mil-accent">SaaS Applications</span> We Deliver
+                <h2 class="mil-light mil-mb-30">Types Of <span class="mil-accent">Services</span> We
+                    Deliver
                 </h2>
-                <p class="mil-light-soft">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    <br>incididunt ut labore et dolore magna aliqua.
+                <p class="mil-light-soft">Comprehensive IT Support: Secure, seamless cloud, server, and data management.
                 </p>
             </div>
             <div class="row mil-mb-30-adapt">
@@ -354,7 +417,7 @@
                         <div class="mil-icon-frame mil-icon-frame-sm mil-light">
                             <img src="img/icons/sm/6.svg" alt="icon">
                         </div>
-                        <p class="mil-light">CRMs Platforms</p>
+                        <p class="mil-light">Cloud Services Management</p>
                     </div>
 
                 </div>
@@ -364,7 +427,7 @@
                         <div class="mil-icon-frame mil-icon-frame-sm mil-light">
                             <img src="img/icons/sm/2.svg" alt="icon">
                         </div>
-                        <p class="mil-light">ERPs Platforms</p>
+                        <p class="mil-light">Microsoft 365 Solutions</p>
                     </div>
 
                 </div>
@@ -374,7 +437,7 @@
                         <div class="mil-icon-frame mil-icon-frame-sm mil-light">
                             <img src="img/icons/sm/7.svg" alt="icon">
                         </div>
-                        <p class="mil-light">Marketing Software</p>
+                        <p class="mil-light">Backup and Disaster Recovery</p>
                     </div>
 
                 </div>
@@ -384,7 +447,7 @@
                         <div class="mil-icon-frame mil-icon-frame-sm mil-light">
                             <img src="img/icons/sm/3.svg" alt="icon">
                         </div>
-                        <p class="mil-light">Project Management Systems</p>
+                        <p class="mil-light">Virtualization Solutions</p>
                     </div>
 
                 </div>
@@ -394,7 +457,7 @@
                         <div class="mil-icon-frame mil-icon-frame-sm mil-light">
                             <img src="img/icons/sm/5.svg" alt="icon">
                         </div>
-                        <p class="mil-light">Accounting Systems</p>
+                        <p class="mil-light">Email and Collaboration Tools</p>
                     </div>
 
                 </div>
@@ -404,7 +467,7 @@
                         <div class="mil-icon-frame mil-icon-frame-sm mil-light">
                             <img src="img/icons/sm/1.svg" alt="icon">
                         </div>
-                        <p class="mil-light">Document Auto. Solutions</p>
+                        <p class="mil-light">IT Support and Consulting</p>
                     </div>
 
                 </div>
@@ -414,7 +477,7 @@
                         <div class="mil-icon-frame mil-icon-frame-sm mil-light">
                             <img src="img/icons/sm/4.svg" alt="icon">
                         </div>
-                        <p class="mil-light">Cybersecurity Platforms</p>
+                        <p class="mil-light">Security Solutions</p>
                     </div>
 
                 </div>
@@ -424,13 +487,13 @@
                         <div class="mil-icon-frame mil-icon-frame-sm mil-light">
                             <img src="img/icons/sm/8.svg" alt="icon">
                         </div>
-                        <p class="mil-light">HR/HRM Software</p>
+                        <p class="mil-light">IT Infrastructure Management</p>
                     </div>
 
                 </div>
             </div>
             <div class="mil-text-center">
-                <a href="#." class="mil-button mil-border mil-light mil-mb-30"><span>Talk To Our SaaS Experts</span></a>
+                <a href="#." class="mil-button mil-border mil-light mil-mb-30"><span>Talk To Our Team</span></a>
             </div>
         </div>
     </section>

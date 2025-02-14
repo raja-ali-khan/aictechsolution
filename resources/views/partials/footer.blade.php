@@ -10,8 +10,9 @@
 
                     <img src="img/logo/logo-light.png" alt="" class="mil-logo mil-mb-30" style="width: 140px">
 
-                    <p class="mil-light-soft mil-mb-30">Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                        sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                    <p class="mil-light-soft mil-mb-30">We specialize in delivering top-notch IT support,
+                        cloud solutions, cybersecurity, and system administration services to businesses of all
+                        sizes.</p>
 
                     <!-- <a href="#." class="mil-app-btn mil-mb-5">
                         <i class="fab fa-google-play"></i>
@@ -35,11 +36,12 @@
                     <div class="row">
                         <div class="col-lg-7 mil-mb-30">
 
-                            <h3 class="mil-light mil-up-font mil-mb-30">Join The <span class="mil-accent">AIC Tech Solution</span>
+                            <h3 class="mil-light mil-up-font mil-mb-30">Join The <span class="mil-accent">AIC Tech
+                                    Solution</span>
                                 <br>Experience
                             </h3>
-                            <p class="mil-light-soft">Lorem ipsum dolor sit amet, consectetuer<br> adipiscing elit,
-                                sed diam nonummy.</p>
+                            <p class="mil-light-soft">We specialize in delivering<br>top-notch
+                                IT support.</p>
 
                         </div>
                         <div class="col-lg-5 mil-mb-30">
@@ -62,16 +64,18 @@
 
         <div class="mil-footer-links">
             <ul class="mil-social mil-light">
-                <li class="mil-adapt-links"><a href="#.">Facebook</a><a href="#.">FB</a></li>
+                <li class="mil-adapt-links"><a
+                        href="https://www.facebook.com/profile.php?id=61572919086923">Facebook</a><a href="#.">FB</a>
+                </li>
                 <li class="mil-adapt-links"><a href="#.">Instagram</a><a href="#.">IG</a></li>
                 <li class="mil-adapt-links"><a href="#.">LinkedIn</a><a href="#.">IN</a></li>
-                <li class="mil-adapt-links"><a href="#.">Twitter</a><a href="#.">TW</a></li>
-                <li class="mil-adapt-links"><a href="#.">YouTube</a><a href="#.">YT</a></li>
+                {{-- <li class="mil-adapt-links"><a href="#.">Twitter</a><a href="#.">TW</a></li>
+                <li class="mil-adapt-links"><a href="#.">YouTube</a><a href="#.">YT</a></li> --}}
             </ul>
             <ul class="mil-additional-links mil-light">
-                <li><a href="#.">About us</a></li>
-                <li><a href="#.">Service</a></li>
-                <li><a href="#.">Solution</a></li>
+                <li><a href="{{route('about-us')}}">About us</a></li>
+                <li><a href="{{route('services')}}">Service</a></li>
+                <li><a href="{{route('solution')}}">Solution</a></li>
             </ul>
         </div>
     </div>
@@ -93,14 +97,16 @@
             <div class="row align-items-center mil-p-120-60">
                 <div class="col-xl-6 mil-mb-60">
 
-                    <h3 class="mil-light mil-mb-15">Join The <span class="mil-accent">AIC Tech Solution</span> Experience</h3>
+                    <h3 class="mil-light mil-mb-15">Join The <span class="mil-accent">AIC Tech Solution</span>
+                        Experience</h3>
 
-                    <p class="mil-light-soft">Duis autem vel eum iriure dolor in hendrerit in vulputate.</p>
+                    <p class="mil-light-soft">We specialize in delivering top-notch
+                        IT support.</p>
 
                 </div>
                 <div class="col-xl-6 mil-mb-60">
 
-                   <!--  <form class="mil-subscribe-form">
+                    <!--  <form class="mil-subscribe-form">
                         <input type="text" placeholder="Your email address">
                         <button type="submit" class="mil-button mil-accent-bg">Subscribe Now</button>
                     </form> -->
@@ -133,7 +139,7 @@
 
                             <ul class="mil-hover-link-list mil-light">
                                 <li>
-                                    <a href="#.">Facebook</a>
+                                    <a href="https://www.facebook.com/profile.php?id=61572919086923">Facebook</a>
                                 </li>
                                 <li>
                                     <a href="#.">Instagram</a>
@@ -179,20 +185,20 @@
 
                             <ul class="mil-hover-link-list mil-light">
                                 <li>
-                                    <a href="#.">About Us</a>
+                                    <a href="{{route('about-us')}}">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="#.">Terms & condition</a>
+                                    <a href="{{route('services')}}">Service</a>
                                 </li>
                                 <li>
-                                    <a href="#.">Privacy Policy</a>
+                                    <a href="{{route('solution')}}">Solution</a>
                                 </li>
                                 <li>
-                                    <a href="#.">Partners</a>
+                                    <a href="{{route('contact-us')}}">Contact-us</a>
                                 </li>
-                                <li>
+                                {{-- <li>
                                     <a href="#.">Press</a>
-                                </li>
+                                </li> --}}
                             </ul>
 
                         </div>

@@ -37,10 +37,12 @@
                         </h1>
                         <div class="mil-flex-hori-center">
                             <div>
-                                <a href="contact.html" class="mil-button mil-border mil-light"><span>Let’s
+                                <a href="{{route('contact-us')}}" class="mil-button mil-border mil-light"><span>Let’s
                                         Talk</span></a>
                             </div>
-                            <p class="mil-button-descr mil-light-soft">We specialize in delivering top-notch IT support, cloud solutions, cybersecurity, and system administration services to businesses of all sizes.</p>
+                            <p class="mil-button-descr mil-light-soft">We specialize in delivering top-notch IT support,
+                                cloud solutions, cybersecurity, and system administration services to businesses of all
+                                sizes.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -137,9 +139,12 @@
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">01</span>Managed IT Services</h5>
-                            <p>24/7 Remote Support: Providing round-the-clock assistance to resolve any IT-related issues promptly.
-                                Network Monitoring & Management: Monitoring network traffic, identifying bottlenecks, and ensuring optimal performance.
-                                Server Management: Administration and maintenance of physical or virtual servers, ensuring smooth operation and security.</p>
+                            <p>24/7 Remote Support: Providing round-the-clock assistance to resolve any IT-related
+                                issues promptly.
+                                Network Monitoring & Management: Monitoring network traffic, identifying bottlenecks,
+                                and ensuring optimal performance.
+                                Server Management: Administration and maintenance of physical or virtual servers,
+                                ensuring smooth operation and security.</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -150,9 +155,13 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">02</span> QA and Testing</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">02</span>Cloud Services</h5>
+                            <p>Cloud Migration: Seamlessly migrating your existing infrastructure to cloud platforms
+                                like IONOS, AWS, and Azure.
+                                Cloud Backup Solutions: Secure, automated backup systems that ensure business
+                                continuity.
+                                Cloud Security: Implementation of best practices for securing cloud-based applications
+                                and data storage..</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -163,11 +172,73 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">03</span> SaaS</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">03</span>Email Management & Support
+                            </h5>
+                            <p>Email Migration: Moving from legacy email systems (like Gmail or Exchange) to Office 365
+                                or other enterprise solutions.
+                                Email Configuration & Management: Setup, configuration, and ongoing management of
+                                corporate email systems.
+                                Spam & Security Filtering: Protecting your business from malicious emails through robust
+                                filtering and security measures.</p>
                         </div>
                     </div>
+                    <div class="mil-divider mil-divider-left"></div>
+                    <div class="mil-service-item">
+                        <div class="mil-service-icon">
+                            <div class="mil-icon-frame mil-icon-frame-md">
+                                <img src="img/icons/md/3.svg" alt="icon">
+                            </div>
+                        </div>
+                        <div class="mil-service-text">
+                            <h5 class="mil-mb-30"><span class="mil-accent">04</span>Backup & Disaster Recovery
+                            </h5>
+                            <p>Data Backup Solutions: Implementation of backup strategies to ensure critical data is
+                                regularly backed up and easily recoverable.
+                                Disaster Recovery Planning: Developing disaster recovery plans to ensure rapid recovery
+                                of IT systems in case of a failure or disaster.</p>
+                        </div>
+                    </div>
+                    <div class="mil-divider mil-divider-left"></div>
+
+                    <div class="mil-service-item">
+                        <div class="mil-service-icon">
+                            <div class="mil-icon-frame mil-icon-frame-md">
+                                <img src="img/icons/md/3.svg" alt="icon">
+                            </div>
+                        </div>
+                        <div class="mil-service-text">
+                            <h5 class="mil-mb-30"><span class="mil-accent">05</span>Server & Network Security
+
+                            </h5>
+                            <p>Network Security Audits: Conducting regular audits to identify and mitigate network
+                                vulnerabilities.
+                                Patch Management: Keeping your software and systems up-to-date with the latest security
+                                patches and updates.
+                                VPN & Remote Access Solutions: Configuring secure VPNs for remote access to internal
+                                systems and networks.</p>
+                        </div>
+                    </div>
+                    <div class="mil-divider mil-divider-left"></div>
+
+                    <div class="mil-service-item">
+                        <div class="mil-service-icon">
+                            <div class="mil-icon-frame mil-icon-frame-md">
+                                <img src="img/icons/md/3.svg" alt="icon">
+                            </div>
+                        </div>
+                        <div class="mil-service-text">
+                            <h5 class="mil-mb-30"><span class="mil-accent">06</span>VoIP & Communication Solutions
+
+
+                            </h5>
+                            <p>VoIP System Setup: Installing and configuring Voice over IP (VoIP) systems for
+                                cost-effective communication.
+                                Unified Communication Solutions: Streamlining communication with integrated services for
+                                voice, video, and instant messaging.</p>
+                        </div>
+                    </div>
+                    <div class="mil-divider mil-divider-left"></div>
+
                 </div>
                 <div class="col-lg-6 col-xl-6">
                     <h4 class="mil-mb-60 mil-mt-30">IT Solutions</h4>
@@ -179,9 +250,15 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">01</span> Blockchain</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">01</span> Cybersecurity Solutions</h5>
+                            <p>Endpoint Protection: Deploying and managing endpoint security solutions to safeguard
+                                devices from malware and unauthorized access.
+                                Firewall Configuration & Management: Setup, configuration, and ongoing management of
+                                firewalls to protect the network from external threats.
+                                Vulnerability Assessment & Penetration Testing: Regularly assessing and testing your IT
+                                infrastructure for vulnerabilities to ensure it's secure from cyber-attacks.
+                                Data Encryption: Implementing encryption for both data at rest and in transit to ensure
+                                secure communication.</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -192,9 +269,14 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">02</span> Artificial Intelligence</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">02</span>IT Consulting & Strategy
+                            </h5>
+                            <p>Technology Consulting: Offering expert advice on the latest technology solutions to meet
+                                your business needs.
+                                IT Infrastructure Design: Designing and implementing scalable and efficient IT
+                                infrastructure tailored to your company.
+                                Business Continuity Planning: Helping you build strategies to ensure business operations
+                                continue without interruption during disasters.</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -205,9 +287,59 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">03</span> Internet of Things</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">03</span>Virtualization Solutions</h5>
+                            <p>VMware & Hyper-V Setup: Setting up and managing virtualization environments for better
+                                resource allocation and cost savings.
+                                Desktop Virtualization: Delivering virtual desktops to employees, enabling remote work
+                                and more flexible working conditions.</p>
+                        </div>
+                    </div>
+                    <div class="mil-divider mil-divider-left"></div>
+                    <div class="mil-service-item">
+                        <div class="mil-service-icon">
+                            <div class="mil-icon-frame mil-icon-frame-md">
+                                <img src="img/icons/md/6.svg" alt="icon">
+                            </div>
+                        </div>
+                        <div class="mil-service-text">
+                            <h5 class="mil-mb-30"><span class="mil-accent">04</span>IT Support & Troubleshooting
+                            </h5>
+                            <p>Mac & Windows Support: Offering comprehensive support for both Mac and Windows devices,
+                                ensuring they run smoothly and securely.
+                                Hardware & Software Troubleshooting: Diagnosing and resolving issues with both hardware
+                                and software to minimize downtime.</p>
+                        </div>
+                    </div>
+                    <div class="mil-divider mil-divider-left"></div>
+                    <div class="mil-service-item">
+                        <div class="mil-service-icon">
+                            <div class="mil-icon-frame mil-icon-frame-md">
+                                <img src="img/icons/md/6.svg" alt="icon">
+                            </div>
+                        </div>
+                        <div class="mil-service-text">
+                            <h5 class="mil-mb-30"><span class="mil-accent">05</span>IT Project Management</h5>
+                            <p>Project Planning & Coordination: Overseeing IT-related projects from planning to
+                                implementation, ensuring timely delivery.
+                                Vendor Management: Coordinating with third-party vendors for software, hardware, or
+                                cloud services, ensuring compliance with requirements.</p>
+                        </div>
+                    </div>
+                    <div class="mil-divider mil-divider-left"></div>
+                    <div class="mil-service-item">
+                        <div class="mil-service-icon">
+                            <div class="mil-icon-frame mil-icon-frame-md">
+                                <img src="img/icons/md/6.svg" alt="icon">
+                            </div>
+                        </div>
+                        <div class="mil-service-text">
+                            <h5 class="mil-mb-30"><span class="mil-accent">0</span>12. Training & Workshops</h5>
+                            <p>Custom IT Training: Providing training sessions for your staff on best practices for
+                                software, security, and general IT systems.
+                                Workshops on Productivity Tools: Helping teams get the most out of tools like Microsoft
+                                Office 365, Google Workspace, and others.
+                                These services can be customized according to your company’s needs and offerings. Would
+                                you like help further refining this list or developing the content for the website</p>
                         </div>
                     </div>
                 </div>
@@ -334,7 +466,8 @@
                 <div class="col-md-6 col-xl-6">
 
                     <div class="mil-adaptive-right">
-                        <a href="contact.html" class="mil-button mil-border mil-mb-30"><span>Get Started</span></a>
+                        <a href="{{route('contact-us')}}" class="mil-button mil-border mil-mb-30"><span>Get
+                                Started</span></a>
                     </div>
 
                 </div>
@@ -418,7 +551,8 @@
                 <div class="col-md-6 col-xl-6">
 
                     <div class="mil-adaptive-right">
-                        <a href="#." class="mil-button mil-border mil-mb-30"><span>How We Work</span></a>
+                        <a href="{{route('contact-us')}}" class="mil-button mil-border mil-mb-30"><span>How We
+                                Work</span></a>
                     </div>
 
                 </div>
@@ -531,11 +665,24 @@
                     </div>
 
                 </div>
-                <div class="col-md-6 col-xl-3 mil-text-center">
+
+                <div class="col-md-6 col-xl-3">
+
+                    <h6 class="mil-mb-30">IT Infrastructure Management</h6>
+
+                    <div class="mil-skill-frame mil-mb-60">
+                        <div class="mil-skill-track">
+                            <div class="mil-skill-prog" style="width: 80%"></div>
+                        </div>
+                        <div class="mil-text-sm">70%</div>
+                    </div>
+
+                </div>
+                {{-- <div class="col-md-6 col-xl-3 mil-text-center">
 
                     <a href="#." class="mil-link mil-mb-30"><span>More</span><i class="fas fa-arrow-right"></i></a>
 
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>

@@ -1,8 +1,7 @@
 <template>
     <!-- contact -->
     <form @submit.prevent="submitForm">
-
-        <h4 class="mil-mb-60"><span class="mil-accent">01.</span> Tell Us About Yourself</h4>
+        <h4 v-if="!isIndexRoute" class="mil-mb-60"><span class="mil-accent">01.</span> Tell Us About Yourself</h4>
         <div class="row">
             <div class="col-lg-6">
                 <div class="mil-input-frame mil-mb-30" :class="{ 'mil-dark-input': isNotIndexRoute }">

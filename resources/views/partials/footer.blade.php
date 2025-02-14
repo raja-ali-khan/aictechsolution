@@ -76,12 +76,13 @@
                 <li><a href="{{route('about-us')}}">About us</a></li>
                 <li><a href="{{route('services')}}">Service</a></li>
                 <li><a href="{{route('solution')}}">Solution</a></li>
+                <li><a href="{{route('contact-us')}}">Contact-us</a></li>
             </ul>
         </div>
     </div>
     <div class="mil-footer-bottom">
         <div class="container">
-            <p class="mil-text-sm mil-light">© AIC Tech Solution 2023.</p>
+            <p class="mil-text-sm mil-light">© AIC Tech Solution {{ date('Y') }}.</p>
             <p class="mil-text-sm mil-light">All Rights Reserved.</p>
         </div>
     </div>
@@ -119,14 +120,14 @@
 
                     <img src="img/logo/logo-light.png" alt="" class="mil-logo mil-mb-60" style="width: 140px">
 
-                    <p class="mil-light mil-light-soft" style="margin-bottom: 45px">2307 Beverley Rd Brooklyn, <br>New
-                        York 11226 USA.</p>
+                    <!-- <p class="mil-light mil-light-soft" style="margin-bottom: 45px">2307 Beverley Rd Brooklyn, <br>New
+                        York 11226 USA.</p> -->
 
                     <ul class="mil-simple-list mil-mb-15">
-                        <li class="mil-light"><span class="mil-accent">+07</span>&nbsp;<span class="mil-light-soft">0
-                                002 00 05</span></li>
+                        <li class="mil-light"><span class="mil-accent">+92</span>&nbsp;<span class="mil-light-soft">0
+                                3463156700</span></li>
                         <li><span class="mil-accent">info</span><span
-                                class="mil-light mil-light-soft">@mydomain.com</span></li>
+                                class="mil-light mil-light-soft">Irfanmanzoor1984@gmail.com</span></li>
                     </ul>
 
                 </div>
@@ -147,38 +148,16 @@
                                 <li>
                                     <a href="#.">LinkedIn</a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a href="#.">Twitter</a>
                                 </li>
                                 <li>
                                     <a href="#.">YouTube</a>
-                                </li>
+                                </li> -->
                             </ul>
 
                         </div>
-                        <div class="col-md-4 col-lg-4 mil-mb-60">
 
-                            <h4 class="mil-list-title mil-light mil-mb-60">Support</h4>
-
-                            <ul class="mil-hover-link-list mil-light">
-                                <li>
-                                    <a href="#.">Documentation</a>
-                                </li>
-                                <li>
-                                    <a href="#.">Support</a>
-                                </li>
-                                <li>
-                                    <a href="#.">FAQs</a>
-                                </li>
-                                <li>
-                                    <a href="#.">Download</a>
-                                </li>
-                                <li>
-                                    <a href="#.">Sitemap</a>
-                                </li>
-                            </ul>
-
-                        </div>
                         <div class="col-md-4 col-lg-4 mil-mb-60">
 
                             <h4 class="mil-list-title mil-light mil-mb-60">Links</h4>
@@ -202,6 +181,30 @@
                             </ul>
 
                         </div>
+
+                        <div class="col-md-4 col-lg-4 mil-mb-60">
+
+                            <!-- <h4 class="mil-list-title mil-light mil-mb-60">Support</h4>
+
+                            <ul class="mil-hover-link-list mil-light">
+                                <li>
+                                    <a href="#.">Documentation</a>
+                                </li>
+                                <li>
+                                    <a href="#.">Support</a>
+                                </li>
+                                <li>
+                                    <a href="#.">FAQs</a>
+                                </li>
+                                <li>
+                                    <a href="#.">Download</a>
+                                </li>
+                                <li>
+                                    <a href="#.">Sitemap</a>
+                                </li>
+                            </ul> -->
+
+                        </div>
                     </div>
 
                 </div>
@@ -211,7 +214,7 @@
     </div>
     <div class="mil-footer-bottom">
         <div class="container">
-            <p class="mil-text-sm mil-light">© AIC Tech Solution 2025.</p>
+            <p class="mil-text-sm mil-light">© AIC Tech Solution {{ date('Y') }}.</p>
             <p class="mil-text-sm mil-light">All Rights Reserved.</p>
         </div>
     </div>

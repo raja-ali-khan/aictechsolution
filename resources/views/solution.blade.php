@@ -15,7 +15,7 @@
                     <li><a href="home-1.html">Home</a></li>
                     <li><a href="service-1.html">Solution</a></li>
                 </ul>
-                <h2 class="mil-uppercase">AI consulting and development</h2>
+                <h2 class="mil-uppercase">Our expertise spans various <br> fields including</h2>
             </div>
         </div>
     </div>
@@ -33,14 +33,16 @@
                                 <img src="img/icons/md/11.svg" alt="icon">
                             </div>
                         </div>
-                        <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqu quis ipsum suspendisse ultrices gravida.</h5>
+                        <h5>Trusted by Leading Businesses: Our clients trust us to handle their IT infrastructure and
+                            we’ve built long-lasting relationships with organizations of all sizes from startups to
+                            enterprises</h5>
                     </div>
                 </div>
                 <div class="col-lg-4">
 
                     <div class="mil-adaptive-right">
-                        <a href="#." class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
+                        <a href="{{route('contact-us')}}" class="mil-button mil-border mil-mb-30"><span>Get in
+                                Touch</span></a>
                     </div>
 
                 </div>
@@ -58,8 +60,9 @@
         <div class="container">
 
             <div class="mil-text-center mil-mb-90">
-                <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Consulting and Development</span>
-                <h2>AI Consulting and Development Company <br> With <span class="mil-accent">Extensive Know How</span>
+                <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Consulting and Solution</span>
+                <h2>Let us manage your IT so you can focus on<br> what truly <span class="mil-accent">matters—growing
+                        your business.</span>
                 </h2>
             </div>
 
@@ -85,31 +88,29 @@
                                             <img src="img/icons/md/2.svg" alt="icon">
                                         </div>
                                     </div>
-                                    <h5>Machine Learning</h5>
+                                    <h5>Microsoft 365 Solutions</h5>
                                 </div>
 
                                 <div class="row mil-mb-60">
                                     <div class="col-lg-6">
 
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the
-                                            majority have suffered alteration in some form, by injected humour, or
-                                            randomised words which don't look even slightly believable. If you are going
-                                            to use a passage of Lorem Ipsum, you need to be sure there isn't anything
-                                            embarrassing hidden.</p>
+                                        <p>Maximize the potential of Microsoft 365 with our expert setup, configuration,
+                                            and migration services. We provide a seamless transition to the cloud,
+                                            ensuring that your team can collaborate, communicate, and work efficiently.
+                                        </p>
 
                                     </div>
                                     <div class="col-lg-6">
 
-                                        <p>Internet tend to repeat predefined chunks as necessary, making this the first
-                                            true generator on the Internet. It uses a dictionary of over 200 Latin
-                                            words, combined with a handful of model sentence structures, to generate
-                                            Lorem Ipsum which looks reasonable.</p>
+                                        <p>Cloud infrastructure setup <br>
+                                            Migration and optimization<br>
+                                            24/7 cloud monitoring and maintenance</p>
 
                                     </div>
                                 </div>
-
+                                {{--
                                 <a href="#." class="mil-link mil-mb-60"><span>See More</span><i
-                                        class="fas fa-arrow-right"></i></a>
+                                        class="fas fa-arrow-right"></i></a> --}}
 
                             </div>
                             <div class="col-lg-4">
@@ -139,31 +140,29 @@
                                             <img src="img/icons/md/1.svg" alt="icon">
                                         </div>
                                     </div>
-                                    <h5>Deep Learning</h5>
+                                    <h5>Backup and Disaster Recovery</h5>
                                 </div>
 
                                 <div class="row mil-mb-60">
                                     <div class="col-lg-6">
 
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the
-                                            majority have suffered alteration in some form, by injected humour, or
-                                            randomised words which don't look even slightly believable. If you are going
-                                            to use a passage of Lorem Ipsum, you need to be sure there isn't anything
-                                            embarrassing hidden.</p>
+                                        <p>Your data is invaluable. We provide robust backup and disaster recovery
+                                            solutions using Datto BCDR, Acronis, and other leading technologies. In the
+                                            event of data loss or server downtime, we ensure that your business can get
+                                            back on track quickly</p>
 
                                     </div>
                                     <div class="col-lg-6">
 
-                                        <p>Internet tend to repeat predefined chunks as necessary, making this the first
-                                            true generator on the Internet. It uses a dictionary of over 200 Latin
-                                            words, combined with a handful of model sentence structures, to generate
-                                            Lorem Ipsum which looks reasonable.</p>
+                                        <p>Microsoft 365 deployment <br>
+                                            Office 365 migration <br>
+                                            Ongoing support and troubleshooting</p>
 
                                     </div>
                                 </div>
 
-                                <a href="#." class="mil-link mil-mb-60"><span>See More</span><i
-                                        class="fas fa-arrow-right"></i></a>
+                                {{-- <a href="#." class="mil-link mil-mb-60"><span>See More</span><i
+                                        class="fas fa-arrow-right"></i></a> --}}
 
                             </div>
                             <div class="col-lg-4">
@@ -192,31 +191,29 @@
                                             <img src="img/icons/md/11.svg" alt="icon">
                                         </div>
                                     </div>
-                                    <h5>Natural Language</h5>
+                                    <h5>Virtualization Solutions</h5>
                                 </div>
 
                                 <div class="row mil-mb-60">
                                     <div class="col-lg-6">
 
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the
-                                            majority have suffered alteration in some form, by injected humour, or
-                                            randomised words which don't look even slightly believable. If you are going
-                                            to use a passage of Lorem Ipsum, you need to be sure there isn't anything
-                                            embarrassing hidden.</p>
+                                        <p>Virtualization is a key part of modern IT infrastructure, and we have the
+                                            expertise to implement and manage virtualization technologies like VMware,
+                                            Hyper-V, and Parallels Desktop. Our solutions help optimize hardware
+                                            utilization, improve scalability, and streamline your operations.</p>
 
                                     </div>
                                     <div class="col-lg-6">
 
-                                        <p>Internet tend to repeat predefined chunks as necessary, making this the first
-                                            true generator on the Internet. It uses a dictionary of over 200 Latin
-                                            words, combined with a handful of model sentence structures, to generate
-                                            Lorem Ipsum which looks reasonable.</p>
+                                        <p>Backup strategy design and implementation <br>
+                                            Disaster recovery planning <br>
+                                            Data recovery and restoration</p>
 
                                     </div>
                                 </div>
 
-                                <a href="#." class="mil-link mil-mb-60"><span>See More</span><i
-                                        class="fas fa-arrow-right"></i></a>
+                                {{-- <a href="#." class="mil-link mil-mb-60"><span>See More</span><i
+                                        class="fas fa-arrow-right"></i></a> --}}
 
                             </div>
                             <div class="col-lg-4">
@@ -245,31 +242,29 @@
                                             <img src="img/icons/md/3.svg" alt="icon">
                                         </div>
                                     </div>
-                                    <h5>Computer Vision</h5>
+                                    <h5>Email and Collaboration Tools</h5>
                                 </div>
 
                                 <div class="row mil-mb-60">
                                     <div class="col-lg-6">
 
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the
-                                            majority have suffered alteration in some form, by injected humour, or
-                                            randomised words which don't look even slightly believable. If you are going
-                                            to use a passage of Lorem Ipsum, you need to be sure there isn't anything
-                                            embarrassing hidden.</p>
+                                        <p>Effective communication is the backbone of any organization. We specialize in
+                                            email migrations, Office 365 setup, and management, providing a reliable and
+                                            secure email solution. We also ensure that collaboration tools are
+                                            seamlessly integrated for maximum productivity.</p>
 
                                     </div>
                                     <div class="col-lg-6">
 
-                                        <p>Internet tend to repeat predefined chunks as necessary, making this the first
-                                            true generator on the Internet. It uses a dictionary of over 200 Latin
-                                            words, combined with a handful of model sentence structures, to generate
-                                            Lorem Ipsum which looks reasonable.</p>
+                                        <p>Server and desktop virtualization <br>
+                                            Cloud-based virtual environments <br>
+                                            Virtual infrastructure management</p>
 
                                     </div>
                                 </div>
 
-                                <a href="#." class="mil-link mil-mb-60"><span>See More</span><i
-                                        class="fas fa-arrow-right"></i></a>
+                                {{-- <a href="#." class="mil-link mil-mb-60"><span>See More</span><i
+                                        class="fas fa-arrow-right"></i></a> --}}
 
                             </div>
                             <div class="col-lg-4">
@@ -291,9 +286,9 @@
             </div>
 
             <div class="mil-tab-buttons mil-mt-60-adapt">
-                <a href="#tab1" class="mil-active"><span>Machine Learning</span></a>
-                <a href="#tab2"><span>Deep Learning</span></a>
-                <a href="#tab3"><span>Natural Language</span></a>
+                <a href="#tab1" class="mil-active"><span>Microsoft 365 Solutions</span></a>
+                <a href="#tab2"><span>Virtualization Solutions</span></a>
+                <a href="#tab3"><span>Email and Collaboration Tools</span></a>
                 <a href="#tab4"><span>Computer Vision</span></a>
             </div>
 

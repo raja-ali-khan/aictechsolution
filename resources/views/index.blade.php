@@ -126,7 +126,7 @@
     <section class="mil-services mil-p-120-90">
         <div class="mil-deco" style="top: 0; right: 20%;"></div>
         <div class="container">
-            <h2 class="mil-mb-30">How We Can <span class="mil-accent">Help You</span></h2>
+            <h2 class="mil-mb-30">We Can <span class="mil-accent">Help You</span></h2>
             <div class="row">
                 <div class="col-lg-6 col-xl-6">
                     <h4 class="mil-mb-60 mil-mt-30">IT Services We Offer</h4>

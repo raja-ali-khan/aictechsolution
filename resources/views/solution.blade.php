@@ -287,9 +287,9 @@
 
             <div class="mil-tab-buttons mil-mt-60-adapt">
                 <a href="#tab1" class="mil-active"><span>Microsoft 365 Solutions</span></a>
-                <a href="#tab2"><span>Virtualization Solutions</span></a>
-                <a href="#tab3"><span>Email and Collaboration Tools</span></a>
-                <a href="#tab4"><span>Computer Vision</span></a>
+                <a href="#tab2"><span>Backup and Disaster Recovery</span></a>
+                <a href="#tab3"><span>Virtualization Solutions</span></a>
+                <a href="#tab4"><span>Email and Collaboration Tools</span></a>
             </div>
 
         </div>
@@ -301,8 +301,8 @@
         <div class="container">
 
             <div class="mil-text-center mil-mb-90">
-                <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Artificial Intelligence Consulting</span>
-                <h2>Artificial Intelligence Solutions in Focus</h2>
+                <span class="mil-suptitle mil-suptitle-2 mil-mb-30">IT Services We Offer</span>
+                <h2>We manage IT you grow your business.</h2>
             </div>
 
         </div>
@@ -324,76 +324,83 @@
                             <div class="swiper-slide">
 
                                 <div data-swiper-parallax-y="-100" data-swiper-parallax-opacity="0">
-                                    <h3 class="mil-light mil-mb-120">AI Solutions To Analyze and Understand The <span
-                                            class="mil-accent">Physical World</span></h3>
+                                    <h3 class="mil-light mil-mb-120">Email migration Gmail to Office 365 etc
+                                        <span class="mil-accent">Exchange server setup and management</span>
+                                    </h3>
                                     <div class="mil-hori-box mil-mb-30">
                                         <div class="mil-mr-15">
                                             <div class="mil-icon-frame mil-light mil-icon-frame-md">
                                                 <img src="img/icons/md/10.svg" alt="icon">
                                             </div>
                                         </div>
-                                        <h5 class="mil-light">Facial Recognition</h5>
+                                        <h5 class="mil-light">IT Support and Consulting</h5>
                                     </div>
-                                    <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why
-                                        laughter endeavor. In on my jointure horrible margaret suitable he followed
-                                        speedily.</p>
+                                    <p class="mil-light-soft">Our team offers proactive IT support, system
+                                        administration, and troubleshooting services to ensure your IT infrastructure is
+                                        always running at peak performance. We also offer strategic IT consulting to
+                                        help businesses leverage technology for growth. </p>
                                 </div>
 
                             </div>
                             <div class="swiper-slide">
 
                                 <div data-swiper-parallax-y="-100" data-swiper-parallax-opacity="0">
-                                    <h3 class="mil-light mil-mb-120">Industry Specific AI Consulting and <span
-                                            class="mil-accent">Development</span></h3>
+                                    <h3 class="mil-light mil-mb-120">System health monitoring and optimization <span
+                                            class="mil-accent">IT consulting and strategy development</span>
+                                    </h3>
                                     <div class="mil-hori-box mil-mb-30">
                                         <div class="mil-mr-15">
                                             <div class="mil-icon-frame mil-light mil-icon-frame-md">
                                                 <img src="img/icons/md/11.svg" alt="icon">
                                             </div>
                                         </div>
-                                        <h5 class="mil-light">Artificial Intelligence</h5>
+                                        <h5 class="mil-light">Security Solutions</h5>
                                     </div>
-                                    <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why
-                                        laughter endeavor. In on my jointure horrible margaret suitable he followed
-                                        speedily.</p>
+                                    <p class="mil-light-soft">Cybersecurity is critical in today’s digital world. Our
+                                        team ensures your business is protected from threats with the latest security
+                                        technologies, including malware protection, firewalls, and endpoint security. We
+                                        also provide vulnerability assessments and risk management services.</p>
                                 </div>
 
                             </div>
                             <div class="swiper-slide">
 
                                 <div data-swiper-parallax-y="-100" data-swiper-parallax-opacity="0">
-                                    <h3 class="mil-light mil-mb-120">AI Solutions To Analyze and Understand The <span
-                                            class="mil-accent">Physical World</span></h3>
+                                    <h3 class="mil-light mil-mb-120">Malware and antivirus solutions<span
+                                            class="mil-accent">Network and data protection</span></h3>
                                     <div class="mil-hori-box mil-mb-30">
                                         <div class="mil-mr-15">
                                             <div class="mil-icon-frame mil-light mil-icon-frame-md">
                                                 <img src="img/icons/md/10.svg" alt="icon">
                                             </div>
                                         </div>
-                                        <h5 class="mil-light">Facial Recognition</h5>
+                                        <h5 class="mil-light">IT Infrastructure Management</h5>
                                     </div>
-                                    <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why
-                                        laughter endeavor. In on my jointure horrible margaret suitable he followed
-                                        speedily.</p>
+                                    <p class="mil-light-soft">We offer comprehensive IT infrastructure services, from
+                                        designing and setting up networks to ongoing maintenance and monitoring. We
+                                        ensure that your network is secure, fast, and scalable to support your business
+                                        growth</p>
                                 </div>
 
                             </div>
                             <div class="swiper-slide">
 
                                 <div data-swiper-parallax-y="-100" data-swiper-parallax-opacity="0">
-                                    <h3 class="mil-light mil-mb-120">Industry Specific AI Consulting and <span
-                                            class="mil-accent">Development</span></h3>
+                                    <h3 class="mil-light mil-mb-120">Network setup and management <span
+                                            class="mil-accent">Infrastructure monitoring and performance tuning</span>
+                                    </h3>
                                     <div class="mil-hori-box mil-mb-30">
                                         <div class="mil-mr-15">
                                             <div class="mil-icon-frame mil-light mil-icon-frame-md">
                                                 <img src="img/icons/md/11.svg" alt="icon">
                                             </div>
                                         </div>
-                                        <h5 class="mil-light">Artificial Intelligence</h5>
+                                        <h5 class="mil-light"> Cloud Services Management</h5>
                                     </div>
-                                    <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why
-                                        laughter endeavor. In on my jointure horrible margaret suitable he followed
-                                        speedily.</p>
+                                    <p class="mil-light-soft">We specialize in managing and maintaining cloud
+                                        environments, offering services like IONOS and Azure Cloud administration,
+                                        ensuring seamless, secure, and scalable solutions. Whether you're migrating to
+                                        the cloud or optimizing your existing setup, we’ve got you covered</p>
                                 </div>
 
                             </div>
@@ -510,9 +517,12 @@
                 <div class="mil-icon-frame mil-icon-frame-md mil-mb-50">
                     <img src="img/icons/md/13l.svg" alt="icon">
                 </div>
-                <p class="mil-light mil-mb-30">Cybersecurity Ventures</p>
-                <h3 class="mil-light">The Estimated Global Cost of <span class="mil-accent">Cybercrime</span> is <span
-                        class="mil-accent">$6T</span> <br>and Climbing <span class="mil-accent">+ 15%</span> a Year.
+                <p class="mil-light mil-mb-30">Expert IT Solutions</p>
+                <h3 class="mil-light">Proven Expertise Our team consists of certified IT specialists with hands-on
+                    experience across various industries <span class="mil-accent"> We understand the complexities of
+                        modern
+                        IT</span> environments <span class="mil-accent">and</span> <br>ensure <span class="mil-accent">+
+                        optimal</span> performance for
                 </h3>
             </div>
         </div>
@@ -524,91 +534,91 @@
         <div class="mil-deco" style="top: 0; right: 15%;"></div>
         <div class="container">
 
-            <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Our Tools</span>
-            <h2 class="mil-mb-90">AI Development <span class="mil-accent">Tech Stack</span></h2>
+            <span class="mil-suptitle mil-suptitle-2 mil-mb-30">IT Services We Offer</span>
+            <h2 class="mil-mb-90">AICTEAH SOLUTION <span class="mil-accent">SKILLS</span></h2>
 
             <div class="row mil-grid-lines">
                 <div class="col-sm-6 col-md-4 col-lg-3">
 
                     <div class="mil-item-card">
-                        <h6>JavaScript</h6>
+                        <h6>Managed IT Services</h6>
                     </div>
 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
 
                     <div class="mil-item-card">
-                        <h6>Python</h6>
+                        <h6>Cloud Services</h6>
                     </div>
 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
 
                     <div class="mil-item-card">
-                        <h6>GCloud</h6>
+                        <h6>Email Management & Support</h6>
                     </div>
 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
 
                     <div class="mil-item-card">
-                        <h6>Java</h6>
+                        <h6>Cybersecurity Solutions</h6>
                     </div>
 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
 
                     <div class="mil-item-card">
-                        <h6>MySQL</h6>
+                        <h6>IT Consulting & Strategy</h6>
                     </div>
 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
 
                     <div class="mil-item-card">
-                        <h6>ONNX</h6>
+                        <h6>Virtualization Solutions</h6>
                     </div>
 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
 
                     <div class="mil-item-card">
-                        <h6>Kotlin</h6>
+                        <h6>Backup & Disaster Recovery</h6>
                     </div>
 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
 
                     <div class="mil-item-card">
-                        <h6>Swift</h6>
+                        <h6>Server & Network Security</h6>
                     </div>
 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
 
                     <div class="mil-item-card">
-                        <h6>PHP</h6>
+                        <h6>VoIP & Communication Solutions</h6>
                     </div>
 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
 
                     <div class="mil-item-card">
-                        <h6>MariaDB</h6>
+                        <h6>IT Support & Troubleshooting</h6>
                     </div>
 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
 
                     <div class="mil-item-card">
-                        <h6>AWS</h6>
+                        <h6> IT Project Management</h6>
                     </div>
 
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3">
 
                     <div class="mil-item-card">
-                        <h6>React</h6>
+                        <h6>Training & Workshops</h6>
                     </div>
 
                 </div>

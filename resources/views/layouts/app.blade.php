@@ -16,20 +16,20 @@
     <link rel="stylesheet" href="css/style.css">
     @vite(['resources/js/app.js'])
 
-    <title>ITSulu</title>
+    <title>AICTECH Solutions</title>
 </head>
 
 <body>
     <!-- Header  -->
     @include('partials.header')
 
+    <!-- Content  -->
     <div id="app">
         @yield('content')
     </div>
 
     <!-- Footer  -->
     @include('partials.footer')
-
 
     <!-- jQuery js -->
     <script src="js/plugins/jquery.min.js"></script>
@@ -38,7 +38,6 @@
     <!-- itsulu js -->
     <script src="js/main.js"></script>
     <script src="js/forms.js"></script>
-
 </body>
 
 </html>

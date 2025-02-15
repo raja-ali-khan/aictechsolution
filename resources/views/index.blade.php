@@ -142,9 +142,7 @@
                             <p>24/7 Remote Support: Providing round-the-clock assistance to resolve any IT-related
                                 issues promptly.
                                 Network Monitoring & Management: Monitoring network traffic, identifying bottlenecks,
-                                and ensuring optimal performance.
-                                Server Management: Administration and maintenance of physical or virtual servers,
-                                ensuring smooth operation and security.</p>
+                                and ensuring optimal performance </p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -178,8 +176,7 @@
                                 or other enterprise solutions.
                                 Email Configuration & Management: Setup, configuration, and ongoing management of
                                 corporate email systems.
-                                Spam & Security Filtering: Protecting your business from malicious emails through robust
-                                filtering and security measures.</p>
+                                Spam & Security Filtering</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -210,12 +207,10 @@
                             <h5 class="mil-mb-30"><span class="mil-accent">05</span>Server & Network Security
 
                             </h5>
-                            <p>Network Security Audits: Conducting regular audits to identify and mitigate network
+                            <p>Network Security Audits Conducting regular audits to identify and mitigate network
                                 vulnerabilities.
-                                Patch Management: Keeping your software and systems up-to-date with the latest security
-                                patches and updates.
-                                VPN & Remote Access Solutions: Configuring secure VPNs for remote access to internal
-                                systems and networks.</p>
+                                Patch Management Keeping your software and systems up-to-date with the latest security
+                                patches and updates VPN & Remote Access: Securely connect to internal systems</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -253,12 +248,9 @@
                             <h5 class="mil-mb-30"><span class="mil-accent">01</span> Cybersecurity Solutions</h5>
                             <p>Endpoint Protection: Deploying and managing endpoint security solutions to safeguard
                                 devices from malware and unauthorized access.
-                                Firewall Configuration & Management: Setup, configuration, and ongoing management of
-                                firewalls to protect the network from external threats.
-                                Vulnerability Assessment & Penetration Testing: Regularly assessing and testing your IT
-                                infrastructure for vulnerabilities to ensure it's secure from cyber-attacks.
-                                Data Encryption: Implementing encryption for both data at rest and in transit to ensure
-                                secure communication.</p>
+                                Firewall Configuration & ManagementFirewall Management Setup, configuration, and
+                                security against threats
+                            </p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -275,8 +267,7 @@
                                 your business needs.
                                 IT Infrastructure Design: Designing and implementing scalable and efficient IT
                                 infrastructure tailored to your company.
-                                Business Continuity Planning: Helping you build strategies to ensure business operations
-                                continue without interruption during disasters.</p>
+                                Business Continuity Planning Strategies to keep operations running during disasters</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -333,15 +324,15 @@
                             </div>
                         </div>
                         <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">0</span>12. Training & Workshops</h5>
-                            <p>Custom IT Training: Providing training sessions for your staff on best practices for
-                                software, security, and general IT systems.
-                                Workshops on Productivity Tools: Helping teams get the most out of tools like Microsoft
-                                Office 365, Google Workspace, and others.
-                                These services can be customized according to your company’s needs and offerings. Would
-                                you like help further refining this list or developing the content for the website</p>
+                            <h5 class="mil-mb-30"><span class="mil-accent">06</span>Training & Workshops</h5>
+                            <p>Custom IT Training Providing training sessions for your staff on best practices for
+                                software, security and general IT systems.
+                                Workshops on Productivity Tools Helping teams get the most out of tools like Microsoft
+                                Office 365 Google Workspace and others.
+                            </p>
                         </div>
                     </div>
+                    <div class="mil-divider mil-divider-left"></div>
                 </div>
             </div>
         </div>

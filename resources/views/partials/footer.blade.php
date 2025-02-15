@@ -124,10 +124,10 @@
                         York 11226 USA.</p> -->
 
                     <ul class="mil-simple-list mil-mb-15">
-                        <li class="mil-light"><span class="mil-accent">+92</span>&nbsp;<span class="mil-light-soft">0
+                        <li class="mil-light"><span class="mil-accent">+92</span>&nbsp;<span class="mil-light-soft">
                                 3463156700</span></li>
-                        <li><span class="mil-accent">info</span><span
-                                class="mil-light mil-light-soft">Irfanmanzoor1984@gmail.com</span></li>
+                        <li><span class="mil-accent">Irfanmanzoor</span><span class="mil-light mil-light-soft">
+                                1984@gmail.com</span></li>
                     </ul>
 
                 </div>

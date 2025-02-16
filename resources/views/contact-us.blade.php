@@ -161,7 +161,7 @@
 
                     <div class="mil-mb-60">
                         <h5 class="mil-list-title mil-mb-30">Support Request</h5>
-                        <p class="mil-mb-20">Our experts are ready to answer your questions.</p>
+                        <p class="mil-mb-20">Facing Issues? Reach out for quick support</p>
                         <!-- <a href="contact.html" class="mil-link mil-link-sm"><span>Support Now</span><i
                                 class="fas fa-arrow-right"></i></a> -->
                     </div>
@@ -173,7 +173,7 @@
                             <img src="img/icons/md/8.svg" alt="icon">
                         </div>
                         <h5 class="mil-list-title mil-mb-30">Need Help?</h5>
-                        <p>For technical questions or billing questions, please contact Customer Care.</p>
+                        <p>We're Here to Help</p>
                     </div>
 
                     {{-- <div class="mil-mb-60">

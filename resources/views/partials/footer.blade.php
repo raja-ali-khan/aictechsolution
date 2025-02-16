@@ -1,5 +1,4 @@
 <!-- footer -->
-
 @if (isset($header_type) && ($header_type == 'index' || $header_type == 'about-us'))
 <footer class="mil-dark-bg">
     <img src="img/deco/map.png" alt="background" class="mil-footer-bg">
@@ -105,14 +104,13 @@
                         IT support.</p>
 
                 </div>
-                <div class="col-xl-6 mil-mb-60">
-
-                    <!--  <form class="mil-subscribe-form">
+                {{-- <div class="col-xl-6 mil-mb-60">
+                    <form class="mil-subscribe-form">
                         <input type="text" placeholder="Your email address">
                         <button type="submit" class="mil-button mil-accent-bg">Subscribe Now</button>
-                    </form> -->
+                    </form>
+                </div> --}}
 
-                </div>
             </div>
             <div class="mil-divider mil-light"></div>
             <div class="row justify-content-between mil-p-120-60">
@@ -182,10 +180,8 @@
 
                         </div>
 
-                        <div class="col-md-4 col-lg-4 mil-mb-60">
-
-                            <!-- <h4 class="mil-list-title mil-light mil-mb-60">Support</h4>
-
+                        {{-- <div class="col-md-4 col-lg-4 mil-mb-60">
+                            <h4 class="mil-list-title mil-light mil-mb-60">Support</h4>
                             <ul class="mil-hover-link-list mil-light">
                                 <li>
                                     <a href="#.">Documentation</a>
@@ -202,15 +198,13 @@
                                 <li>
                                     <a href="#.">Sitemap</a>
                                 </li>
-                            </ul> -->
-
-                        </div>
+                            </ul>
+                        </div> --}}
                     </div>
 
                 </div>
             </div>
         </div>
-
     </div>
     <div class="mil-footer-bottom">
         <div class="container">

@@ -879,13 +879,14 @@
                                     <li><i class="fas fa-star"></i></li>
                                 </ul>
                             </div>
-                            <p class="mil-mb-30">It is a long established fact that a reader will be distracted by the
-                                readable content of a page when looking at its layout.</p>
+                            <p class="mil-mb-30">Irfan was truly amazing. He was quite creative in his approach until
+                                the problem is fixed. I would
+                                highly recommend him!</p>
                             <div class="mil-author">
                                 <img src="img/faces/1.jpg" alt="Customer">
                                 <div class="mil-name">
                                     <h6 class="mil-mb-5">Tamzyn French</h6>
-                                    <span class="mil-text-sm">Agency Design</span>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
                         </div>
@@ -904,13 +905,14 @@
                                     <li><i class="fas fa-star"></i></li>
                                 </ul>
                             </div>
-                            <p class="mil-mb-30">It is a long established fact that a reader will be distracted by the
-                                readable content of a page when looking at its layout.</p>
+                            <p class="mil-mb-30">It was a pleasure working with Irfan and I would highly recommend. He
+                                was able to fix the issue
+                                promptly and he is a professional</p>
                             <div class="mil-author">
                                 <img src="img/faces/2.jpg" alt="Customer">
                                 <div class="mil-name">
                                     <h6 class="mil-mb-5">Margaret Williams</h6>
-                                    <span class="mil-text-sm">Agency Design</span>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
                         </div>
@@ -929,13 +931,14 @@
                                     <li><i class="fas fa-star"></i></li>
                                 </ul>
                             </div>
-                            <p class="mil-mb-30">It is a long established fact that a reader will be distracted by the
-                                readable content of a page when looking at its layout.</p>
+                            <p class="mil-mb-30">Irfan is always great to work with. He's fast, responsive, and very
+                                helpful. This is my second time
+                                using him, and I plan to use him again in the future. Highly recommended.</p>
                             <div class="mil-author">
                                 <img src="img/faces/3.jpg" alt="Customer">
                                 <div class="mil-name">
                                     <h6 class="mil-mb-5">Tarryn Gillies</h6>
-                                    <span class="mil-text-sm">Agency Design</span>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
                         </div>
@@ -954,20 +957,25 @@
                                     <li><i class="fas fa-star"></i></li>
                                 </ul>
                             </div>
-                            <p class="mil-mb-30">It is a long established fact that a reader will be distracted by the
-                                readable content of a page when looking at its layout.</p>
+                            <p class="mil-mb-30">Irfan to the RESCUE!! TRULY he's your my go to guy!!! He's suuuuperb!!
+                                Amazing, SMART ! patient !!
+                                Too generous and kind with his time and work!! Gives you way more than you ask! He gives
+                                you his
+                                110% !!!! He's talented and quick to grasp requirements, and even adds input to enhance
+                                the work!! I
+                                highly recommend Irfan! You won't regret!! I'm coming back soon for extra tasks !! Thank
+                                YOU</p>
                             <div class="mil-author">
                                 <img src="img/faces/4.jpg" alt="Customer">
                                 <div class="mil-name">
-                                    <h6 class="mil-mb-5">Tamzyn French</h6>
-                                    <span class="mil-text-sm">Agency Design</span>
+                                    <h6 class="mil-mb-5">Zara Whitmore</h6>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
                         </div>
 
                     </div>
                     <div class="swiper-slide">
-
                         <div class="mil-review">
                             <div class="mil-stars mil-mb-30">
                                 <img src="img/icons/sm/11.svg" alt="quote">
@@ -979,13 +987,270 @@
                                     <li><i class="fas fa-star"></i></li>
                                 </ul>
                             </div>
-                            <p class="mil-mb-30">It is a long established fact that a reader will be distracted by the
-                                readable content of a page when looking at its layout.</p>
+                            <p class="mil-mb-30">Irfan was really responsive throughout the job and set clear
+                                expectations and directions. Would
+                                definitely recommend working with him Very helpful, communicative, and supportive. Plus
+                                they have a
+                                great experience with Windows and Mac devices and service to work. He described well his
+                                job and
+                                more than that he is flexible regarding the deadline. Reliable, team player, good
+                                communication, and
+                                excellent IT Professional</p>
                             <div class="mil-author">
                                 <img src="img/faces/2.jpg" alt="Customer">
                                 <div class="mil-name">
-                                    <h6 class="mil-mb-5">Margaret Williams</h6>
-                                    <span class="mil-text-sm">Agency Design</span>
+                                    <h6 class="mil-mb-5">Lexi Vaughn</h6>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="mil-review">
+                            <div class="mil-stars mil-mb-30">
+                                <img src="img/icons/sm/11.svg" alt="quote">
+                                <ul>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                </ul>
+                            </div>
+                            <p class="mil-mb-30">Freelancer was very helpful and his availability was great. He figured
+                                out an issue I had for years and
+                                was never able to figure out on my own. I would definitely recommend him for Mac tech
+                                support and
+                                will work with him again in the future if needed.</p>
+                            <div class="mil-author">
+                                <img src="img/faces/2.jpg" alt="Customer">
+                                <div class="mil-name">
+                                    <h6 class="mil-mb-5">Sienna Hayes</h6>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="mil-review">
+                            <div class="mil-stars mil-mb-30">
+                                <img src="img/icons/sm/11.svg" alt="quote">
+                                <ul>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                </ul>
+                            </div>
+                            <p class="mil-mb-30">Very communicative and patient with my schedule. Always available when
+                                he promised and worked
+                                until the job was fully complete. He’s my “go to” person for anything that needs setup
+                                on my Mac.
+                                Awesome experience</p>
+                            <div class="mil-author">
+                                <img src="img/faces/2.jpg" alt="Customer">
+                                <div class="mil-name">
+                                    <h6 class="mil-mb-5">Maren Prescott</h6>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="mil-review">
+                            <div class="mil-stars mil-mb-30">
+                                <img src="img/icons/sm/11.svg" alt="quote">
+                                <ul>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                </ul>
+                            </div>
+                            <p class="mil-mb-30">Irfan helped me debug a Mac problem I had for months. He's my Ninja of
+                                MacOS! On top of that he
+                                gave me very helpful tips on how I can speed up my MacBook Pro so it's a nobrainer for
+                                me to hire him
+                                again soon as I have other issues to solve, too.</p>
+                            <div class="mil-author">
+                                <img src="img/faces/2.jpg" alt="Customer">
+                                <div class="mil-name">
+                                    <h6 class="mil-mb-5">Elara Monroe</h6>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="mil-review">
+                            <div class="mil-stars mil-mb-30">
+                                <img src="img/icons/sm/11.svg" alt="quote">
+                                <ul>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                </ul>
+                            </div>
+                            <p class="mil-mb-30">I had a corrupted user on my OS X. After spending hours trying to fix
+                                it myself, Irfan came in, and
+                                helped me fix the problem AND even setup a new user with the same permissions and data
+                                as my old
+                                user. This is someone who is focused on meeting and solving your problems</p>
+                            <div class="mil-author">
+                                <img src="img/faces/2.jpg" alt="Customer">
+                                <div class="mil-name">
+                                    <h6 class="mil-mb-5">Jocelyn Tate</h6>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="mil-review">
+                            <div class="mil-stars mil-mb-30">
+                                <img src="img/icons/sm/11.svg" alt="quote">
+                                <ul>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                </ul>
+                            </div>
+                            <p class="mil-mb-30">Irfan was really helpful and responsive, he even helped me two times
+                                after the work was complete
+                                when I had issues, so he went above and beyond what was required. I will be using him
+                                again in the
+                                future for sure. Highly recommended freelancee</p>
+                            <div class="mil-author">
+                                <img src="img/faces/2.jpg" alt="Customer">
+                                <div class="mil-name">
+                                    <h6 class="mil-mb-5">Liana Winslow</h6>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="mil-review">
+                            <div class="mil-stars mil-mb-30">
+                                <img src="img/icons/sm/11.svg" alt="quote">
+                                <ul>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                </ul>
+                            </div>
+                            <p class="mil-mb-30">Irfan was really responsive throughout the job and set clear
+                                expectations and directions. I would
+                                definitely recommend working with him. Very helpful and supportive and he has great
+                                experience with
+                                Windows and Mac devices. He is communicative, reliable, a team player, Excellent IT
+                                Professional.</p>
+                            <div class="mil-author">
+                                <img src="img/faces/2.jpg" alt="Customer">
+                                <div class="mil-name">
+                                    <h6 class="mil-mb-5">Tessa Caldwell</h6>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="mil-review">
+                            <div class="mil-stars mil-mb-30">
+                                <img src="img/icons/sm/11.svg" alt="quote">
+                                <ul>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                </ul>
+                            </div>
+                            <p class="mil-mb-30">Mr. Manzoor is amazing with computers. He kept searching for the issue
+                                until he fixed it. He went
+                                above and beyond with recommending other budget-friendly solutions that would also help
+                                solve the
+                                issue. Highly recommend him!</p>
+                            <div class="mil-author">
+                                <img src="img/faces/2.jpg" alt="Customer">
+                                <div class="mil-name">
+                                    <h6 class="mil-mb-5">Brynn Delaney</h6>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="mil-review">
+                            <div class="mil-stars mil-mb-30">
+                                <img src="img/icons/sm/11.svg" alt="quote">
+                                <ul>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                </ul>
+                            </div>
+                            <p class="mil-mb-30">Irfan is a so excellent at what he does. This is my 2nd time hiring him
+                                and he continues to be
+                                incredibly responsive and wonderful to work with. Will definitely use him again</p>
+                            <div class="mil-author">
+                                <img src="img/faces/2.jpg" alt="Customer">
+                                <div class="mil-name">
+                                    <h6 class="mil-mb-5">Brielle Maddox</h6>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="mil-review">
+                            <div class="mil-stars mil-mb-30">
+                                <img src="img/icons/sm/11.svg" alt="quote">
+                                <ul>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                    <li><i class="fas fa-star"></i></li>
+                                </ul>
+                            </div>
+                            <p class="mil-mb-30">Irfan delivered good work on this development project and I enjoyed
+                                working with him.
+                                I live in the US, and he made himself available at all times of the day my time on the
+                                east coast. He went well
+                                above and beyond. I am highly impressed, he went overboard with support.
+                                I would definitely, recommend him to anyone. He was able to adequately, set up my server
+                                so my multiple offices
+                                across the country can log on without any glitches. I am now able to log on from
+                                anywhere with our own server.</p>
+                            <div class="mil-author">
+                                <img src="img/faces/2.jpg" alt="Customer">
+                                <div class="mil-name">
+                                    <h6 class="mil-mb-5">Junaid khan</h6>
+                                    {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
                         </div>

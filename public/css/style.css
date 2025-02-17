@@ -1597,14 +1597,14 @@ top panel
     align-items: center;
 }
 .mil-top-panel .mil-logo {
-    height: 30px;
+    height: 100px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: url(../img/logo/logo-dark.png);
+    background-image: url(../img/logo/aictech-logo.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1819,7 +1819,7 @@ top panel
     box-shadow: none;
 }
 .mil-top-panel.mil-top-panel-transparent .mil-logo {
-    background-image: url(../img/logo/logo-light.png);
+    background-image: url(../img/logo/aictech-logo.png);
 }
 .mil-top-panel.mil-top-panel-transparent .mil-navigation nav ul li a {
     color: rgb(255, 255, 255);

@@ -28,8 +28,7 @@ class Admin extends Authenticatable implements FilamentUser
      * @var array<int, string>
      */
     protected $hidden = [
-        'password',
-        'remember_token',
+        'password'
     ];
 
     public function canAccessPanel(Panel $panel): bool

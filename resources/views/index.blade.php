@@ -373,16 +373,17 @@
 
                         <a href="project.html" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/1.jpg" alt="project">
+                                <img src="img/projects/project1.png" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
-                                    <h4 class="mil-mb-20">Easy & Most Powerful Server Platform.</h4>
-                                    <h6>by: <span class="mil-accent">Jane Meldrum</span></h6>
+                                    <h4 class="mil-mb-20">Terminal Services (TS) Server Deployment</h4>
+                                    {{-- <h6>by: <span class="mil-accent">Jane Meldrum</span></h6> --}}
                                 </div>
                                 <div class="mil-card-text">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>The main objective of this project was to set up a robust and secure Terminal
+                                        Services (TS) server that would provide remote users with secure remote desktop
+                                        access from their local workstations</p>
                                 </div>
                             </div>
                         </a>
@@ -390,37 +391,41 @@
                     </div>
                     <div class="swiper-slide">
 
-                        <a href="project.html" class="mil-card">
+                        <a href="#" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/2.jpg" alt="project">
+                                <img src="img/projects/project2.png" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
-                                    <h4 class="mil-mb-20">Easy & Most Powerful Server Platform.</h4>
-                                    <h6>by: <span class="mil-accent">Nguta Ithya</span></h6>
+                                    <h4 class="mil-mb-20">OVH to IONOS Cloud Server Migration & Backup Restoration</h4>
+                                    {{-- <h6>by: <span class="mil-accent">Nguta Ithya</span></h6> --}}
                                 </div>
                                 <div class="mil-card-text">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>This project involved migrating a complete server backup from an OVH cloud
+                                        environment to an IONOS cloud server. The primary goal was to ensure a seamless
+                                        transition while maintaining data integrity system configurations and
+                                        application availability</p>
                                 </div>
                             </div>
                         </a>
 
                     </div>
                     <div class="swiper-slide">
-
-                        <a href="project.html" class="mil-card">
+                        <a href="#" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/3.jpg" alt="project">
+                                <img src="img/projects/project3.png" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
-                                    <h4 class="mil-mb-20">Easy & Most Powerful Server Platform.</h4>
-                                    <h6>by: <span class="mil-accent">Roy Bricks</span></h6>
+                                    <h4 class="mil-mb-20">Google Workspace to Office 365 Migration</h4>
+                                    {{-- <h6>by: <span class="mil-accent">Roy Bricks</span></h6> --}}
                                 </div>
                                 <div class="mil-card-text">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>This project involved the seamless migration of a user's data and services from
+                                        Google Workspace to Office 365. The objective was to ensure smooth transition
+                                        while preserving emails, calendars, contacts, and files. The process included
+                                        configuring Office 365 accounts, data transfer, and testing to ensure all
+                                        services were fully operational post-migration</p>
                                 </div>
                             </div>
                         </a>
@@ -449,10 +454,8 @@
             </div>
             <div class="row align-items-center">
                 <div class="col-md-6 col-xl-6">
-
                     <a href="portfolio.html" class="mil-link mil-mb-30"><span>View All Cases</span><i
                             class="fas fa-arrow-right"></i></a>
-
                 </div>
                 <div class="col-md-6 col-xl-6">
 

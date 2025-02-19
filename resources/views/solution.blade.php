@@ -114,12 +114,11 @@
 
                             </div>
                             <div class="col-lg-4">
-
                                 <div class="mil-circle-illustration mil-with-dots mil-mb-60"
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t3.png" alt="img">
+                                        <img src="img/faces/microsoft365.png" alt="img">
                                     </div>
                                 </div>
 
@@ -171,7 +170,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t4.png" alt="img">
+                                        <img src="img/faces/Disaster.jpg" alt="img">
                                     </div>
                                 </div>
 
@@ -222,7 +221,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t2.png" alt="img">
+                                        <img src="img/faces/virtualization.png" alt="img">
                                     </div>
                                 </div>
 
@@ -273,7 +272,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t5.png" alt="img">
+                                        <img src="img/faces/email.webp" alt="img">
                                     </div>
                                 </div>
 

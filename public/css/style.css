@@ -2876,6 +2876,7 @@ card
     -webkit-transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
     transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
 }
+
 .mil-card:hover .mil-cover-frame img {
     -webkit-transform: scale(1.03);
     transform: scale(1.03);

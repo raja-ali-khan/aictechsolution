@@ -36,13 +36,3 @@ class Admin extends Authenticatable implements FilamentUser
         return true;
     }
 }
-
-
-
-
-
-
-
-
-
-

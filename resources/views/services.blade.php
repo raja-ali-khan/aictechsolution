@@ -68,9 +68,9 @@
                     </p>
                 </div>
             </div>
+
             <div class="row mil-mb-30-adapt">
                 <div class="col-xl-4">
-
                     <div class="mil-mb-60">
                         <div class="mil-number-icon mil-circle mil-mb-30">
                             <span>01</span>
@@ -80,10 +80,9 @@
                             and Azure Cloud administration, ensuring seamless, secure, and scalable solutions. Whether
                             you're migrating to the cloud or optimizing your existing setup, we’ve got you covered.</p>
                     </div>
-
                 </div>
-                <div class="col-xl-4">
 
+                <div class="col-xl-4">
                     <div class="mil-mb-60">
                         <div class="mil-number-icon mil-lines mil-mb-30">
                             <span>02</span>
@@ -96,7 +95,6 @@
 
                 </div>
                 <div class="col-xl-4">
-
                     <div class="mil-mb-60">
                         <div class="mil-number-icon mil-mb-30">
                             <span>03</span>

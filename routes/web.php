@@ -3,6 +3,10 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactFormController;
 
+// testing api start
+use App\Http\Controllers\CurrencyController;
+// testing api end
+
 Route::get('/', function () {
     return view('coming-soon');
 });
@@ -46,4 +50,10 @@ if (env('APP_ENV') == 'local') {
         return view('solution', $data);
     })->name('solution');
     Route::post('/contact-us', [ContactFormController::class, 'store']);
+
+
+    // testing api
+
+    Route::get('/exchange-rates', [CurrencyController::class, 'showExchangeRates']);
+    Route::post('/convert', [CurrencyController::class, 'convertCurrency'])->name('convert.currency');
 }

@@ -53,9 +53,7 @@ class ContactFormResource extends Resource
                 Tables\Actions\ViewAction::make(), // 👀 View Button
             ])
             ->bulkActions([
-                Tables\Actions\BulkActionGroup::make([
-                    Tables\Actions\DeleteBulkAction::make(),
-                ]),
+                Tables\Actions\BulkActionGroup::make([]),
             ]);
     }
 
@@ -70,8 +68,6 @@ class ContactFormResource extends Resource
     {
         return [
             'index' => Pages\ListContactForms::route('/'),
-            'create' => Pages\CreateContactForm::route('/create'),
-            'edit' => Pages\EditContactForm::route('/{record}/edit'),
             'view' => Pages\CustomContactView::route('/{record}'),
         ];
     }

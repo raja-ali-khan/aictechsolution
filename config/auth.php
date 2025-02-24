@@ -67,6 +67,7 @@ return [
         'users' => [
             'driver' => 'eloquent',
             'model' => App\Models\User::class,
+            Maatwebsite\Excel\ExcelServiceProvider::class,
         ],
         'admins' => [
             'driver' => 'eloquent',
@@ -77,6 +78,11 @@ return [
         //     'driver' => 'database',
         //     'table' => 'users',
         // ],
+
+        'aliases' => [
+
+            'Excel' => Maatwebsite\Excel\Facades\Excel::class,
+        ],
     ],
 
     /*

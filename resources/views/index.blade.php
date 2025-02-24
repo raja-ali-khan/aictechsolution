@@ -373,7 +373,7 @@
 
                         <a href="project.html" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/project1.png" alt="project">
+                                <img src="img/projects/1.jpg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -393,7 +393,7 @@
 
                         <a href="#" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/project2.png" alt="project">
+                                <img src="img/projects/check.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -413,7 +413,7 @@
                     <div class="swiper-slide">
                         <a href="#" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/project3.png" alt="project">
+                                <img src="img/projects/3.jpg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -886,7 +886,7 @@
                                 the problem is fixed. I would
                                 highly recommend him!</p>
                             <div class="mil-author">
-                                <img src="img/faces/1.jpg" alt="Customer">
+                                <img src="img/faces/t1.jpg" alt="Customer">
                                 <div class="mil-name">
                                     <h6 class="mil-mb-5">Tamzyn French</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
@@ -912,7 +912,7 @@
                                 was able to fix the issue
                                 promptly and he is a professional</p>
                             <div class="mil-author">
-                                <img src="img/faces/2.jpg" alt="Customer">
+                                <img src="img/faces/t2.jpg" alt="Customer">
                                 <div class="mil-name">
                                     <h6 class="mil-mb-5">Margaret Williams</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
@@ -938,7 +938,7 @@
                                 helpful. This is my second time
                                 using him, and I plan to use him again in the future. Highly recommended.</p>
                             <div class="mil-author">
-                                <img src="img/faces/3.jpg" alt="Customer">
+                                <img src="img/faces/t3.jpg" alt="Customer">
                                 <div class="mil-name">
                                     <h6 class="mil-mb-5">Tarryn Gillies</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
@@ -969,7 +969,7 @@
                                 highly recommend Irfan! You won't regret!! I'm coming back soon for extra tasks !! Thank
                                 YOU</p>
                             <div class="mil-author">
-                                <img src="img/faces/4.jpg" alt="Customer">
+                                <img src="img/faces/t4.jpg" alt="Customer">
                                 <div class="mil-name">
                                     <h6 class="mil-mb-5">Zara Whitmore</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
@@ -1000,7 +1000,7 @@
                                 communication, and
                                 excellent IT Professional</p>
                             <div class="mil-author">
-                                <img src="img/faces/2.jpg" alt="Customer">
+                                <img src="img/faces/t5.jpg" alt="Customer">
                                 <div class="mil-name">
                                     <h6 class="mil-mb-5">Lexi Vaughn</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}

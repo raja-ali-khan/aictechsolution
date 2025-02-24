@@ -11,29 +11,29 @@
 <body>
     <h1>Exchange Rates</h1>
 
-    @if(session('error'))
-    <p style="color: red;">{{ session('error') }}</p>
-    @endif
 
-    <form action="{{ route('convert.currency') }}" method="POST">
-        @csrf
-        <label>Enter Amount (Base Currency: USD):</label>
-        <input type="number" name="amount" value="{{ old('enteredAmount', 1) }}" min="1" required>
 
-        <label>Select Currency:</label>
-        <select name="currency" required>
+    @if(isset($rates['conversion_rates']))
+    <p><strong>Base Currency:</strong> {{ $rates['base_code'] ?? 'Unknown' }}</p>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Currency</th>
+                <th>Rate (against {{ $rates['base_code'] ?? 'Unknown' }})</th>
+            </tr>
+        </thead>
+        <tbody>
             @foreach($rates['conversion_rates'] as $currency => $rate)
-            <option value="{{ $currency }}" {{ old('selectedCurrency')==$currency ? 'selected' : '' }}>
-                {{ $currency }}
-            </option>
+            <tr>
+                <td>{{ $currency }}</td>
+                <td>{{ $rate }}</td>
+            </tr>
             @endforeach
-        </select>
-
-        <button type="submit">Convert</button>
-    </form>
-
-    @if(session('convertedAmount'))
-    <h3>Converted Amount: {{ session('convertedAmount') }} {{ session('selectedCurrency') }}</h3>
+        </tbody>
+    </table>
+    @else
+    <p>No exchange rate data available.</p>
     @endif
 </body>
 

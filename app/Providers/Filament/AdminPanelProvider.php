@@ -29,6 +29,7 @@ class AdminPanelProvider extends PanelProvider
             ->login()
             ->authGuard('admin')
             ->authPasswordBroker('admins')
+            ->brandName('AicTech-Solution') // Yahan "Laravel" ki jagah apna naam likho
             ->colors([
                 'primary' => Color::Amber,
             ])

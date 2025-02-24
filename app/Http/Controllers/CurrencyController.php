@@ -27,25 +27,25 @@ class CurrencyController extends Controller
     }
 
     // Convert Currency
-    public function convertCurrency(Request $request)
-    {
-        $request->validate([
-            'amount' => 'required|numeric|min:1',
-            'currency' => 'required|string'
-        ]);
+    // public function convertCurrency(Request $request)
+    // {
+    //     $request->validate([
+    //         'amount' => 'required|numeric|min:1',
+    //         'currency' => 'required|string'
+    //     ]);
 
-        $rates = $this->exchangeService->getRates();
+    //     $rates = $this->exchangeService->getRates();
 
-        if (!$rates || !isset($rates['conversion_rates'][$request->currency])) {
-            return back()->with('error', 'Invalid currency or exchange rate not found.');
-        }
+    //     if (!$rates || !isset($rates['conversion_rates'][$request->currency])) {
+    //         return back()->with('error', 'Invalid currency or exchange rate not found.');
+    //     }
 
-        $convertedAmount = $request->amount * $rates['conversion_rates'][$request->currency];
+    //     $convertedAmount = $request->amount * $rates['conversion_rates'][$request->currency];
 
-        return back()->with([
-            'convertedAmount' => number_format($convertedAmount, 2),
-            'selectedCurrency' => $request->currency,
-            'enteredAmount' => $request->amount
-        ]);
-    }
+    //     return back()->with([
+    //         'convertedAmount' => number_format($convertedAmount, 2),
+    //         'selectedCurrency' => $request->currency,
+    //         'enteredAmount' => $request->amount
+    //     ]);
+    // }
 }

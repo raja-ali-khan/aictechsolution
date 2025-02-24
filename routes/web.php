@@ -7,14 +7,14 @@ use App\Http\Controllers\ContactFormController;
 use App\Http\Controllers\CurrencyController;
 // testing api end
 
-Route::get('/', function () {
-    return view('coming-soon');
-});
+// Route::get('/', function () {
+//     return view('coming-soon');
+// });
 
 // local
 // production
-if (env('APP_ENV') == 'local') {
-    Route::get('/index', function () {
+// if (env('APP_ENV') == 'local') {
+    Route::get('/', function () {
         $data = [
             'header_type' => 'index'
         ];
@@ -56,4 +56,4 @@ if (env('APP_ENV') == 'local') {
 
     Route::get('/exchange-rates', [CurrencyController::class, 'showExchangeRates']);
     Route::post('/convert', [CurrencyController::class, 'convertCurrency'])->name('convert.currency');
-}
+// }

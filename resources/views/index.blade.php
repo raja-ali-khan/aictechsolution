@@ -183,7 +183,7 @@
                     <div class="mil-service-item">
                         <div class="mil-service-icon">
                             <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="img/icons/md/3.svg" alt="icon">
+                                <img src="img/icons/md/1.svg" alt="icon">
                             </div>
                         </div>
                         <div class="mil-service-text">
@@ -200,7 +200,7 @@
                     <div class="mil-service-item">
                         <div class="mil-service-icon">
                             <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="img/icons/md/3.svg" alt="icon">
+                                <img src="img/icons/md/2.svg" alt="icon">
                             </div>
                         </div>
                         <div class="mil-service-text">
@@ -289,7 +289,7 @@
                     <div class="mil-service-item">
                         <div class="mil-service-icon">
                             <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="img/icons/md/6.svg" alt="icon">
+                                <img src="img/icons/md/4.svg" alt="icon">
                             </div>
                         </div>
                         <div class="mil-service-text">
@@ -305,7 +305,7 @@
                     <div class="mil-service-item">
                         <div class="mil-service-icon">
                             <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="img/icons/md/6.svg" alt="icon">
+                                <img src="img/icons/md/5.svg" alt="icon">
                             </div>
                         </div>
                         <div class="mil-service-text">
@@ -585,9 +585,9 @@
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
-                            <div class="mil-skill-prog" style="width: 65%"></div>
+                            <div class="mil-skill-prog" style="width: 95%"></div>
                         </div>
-                        <div class="mil-text-sm">65%</div>
+                        <div class="mil-text-sm">95%</div>
                     </div>
 
                 </div>
@@ -609,15 +609,15 @@
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
-                            <div class="mil-skill-prog" style="width: 50%"></div>
+                            <div class="mil-skill-prog" style="width: 95%"></div>
                         </div>
-                        <div class="mil-text-sm">50%</div>
+                        <div class="mil-text-sm">95%</div>
                     </div>
 
                 </div>
                 <div class="col-md-6 col-xl-3">
 
-                    <h6 class="mil-mb-30">Backup strategy design and implementation</h6>
+                    <h6 class="mil-mb-30">Backup strategy design & implement</h6>
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
@@ -633,15 +633,15 @@
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
-                            <div class="mil-skill-prog" style="width: 60%"></div>
+                            <div class="mil-skill-prog" style="width: 90%"></div>
                         </div>
-                        <div class="mil-text-sm">60%</div>
+                        <div class="mil-text-sm">90%</div>
                     </div>
 
                 </div>
                 <div class="col-md-6 col-xl-3">
 
-                    <h6 class="mil-mb-30">Email migration (Gmail to Office 365, etc.)</h6>
+                    <h6 class="mil-mb-30">Email migration (Gmail to Office 365)</h6>
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
@@ -657,9 +657,9 @@
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
-                            <div class="mil-skill-prog" style="width: 80%"></div>
+                            <div class="mil-skill-prog" style="width: 97%"></div>
                         </div>
-                        <div class="mil-text-sm">80%</div>
+                        <div class="mil-text-sm">97%</div>
                     </div>
 
                 </div>
@@ -670,9 +670,9 @@
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
-                            <div class="mil-skill-prog" style="width: 80%"></div>
+                            <div class="mil-skill-prog" style="width: 90%"></div>
                         </div>
-                        <div class="mil-text-sm">70%</div>
+                        <div class="mil-text-sm">90%</div>
                     </div>
 
                 </div>

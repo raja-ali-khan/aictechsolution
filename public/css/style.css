@@ -1858,7 +1858,7 @@ top panel
         background-color: rgb(255, 255, 255);
     }
     .mil-top-panel.mil-top-panel-transparent .mil-logo {
-        background-image: url(../img/logo/logo-dark.png);
+        background-image: url(../img/logo/aictech.png);
     }
     .mil-top-panel.mil-top-panel-transparent .mil-navigation nav ul li a {
         color: rgb(18, 24, 32);
@@ -5131,7 +5131,7 @@ footer
 ------------------------------------------- */
 .mil-footer-bg {
     position: absolute;
-    top: 30px;
+    /* top: 30px; custome line commit */
     left: 0;
     -o-object-fit: contain;
     object-fit: contain;

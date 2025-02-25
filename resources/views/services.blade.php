@@ -491,7 +491,8 @@
                 </div>
             </div>
             <div class="mil-text-center">
-                <a href="#." class="mil-button mil-border mil-light mil-mb-30"><span>Talk To Our Team</span></a>
+                <a href="{{route('contact-us')}}" class="mil-button mil-border mil-light mil-mb-30"><span>Talk To Our
+                        Team</span></a>
             </div>
         </div>
     </section>

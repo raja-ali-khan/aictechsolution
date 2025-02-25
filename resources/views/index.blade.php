@@ -373,7 +373,7 @@
 
                         <a href="project.html" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/1.jpg" alt="project">
+                                <img src="img/projects/1.png" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -393,7 +393,7 @@
 
                         <a href="#" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/check.jpeg" alt="project">
+                                <img src="img/projects/2.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -413,7 +413,7 @@
                     <div class="swiper-slide">
                         <a href="#" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/3.jpg" alt="project">
+                                <img src="img/projects/3.png" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -435,16 +435,20 @@
 
                         <a href="project.html" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/4.jpg" alt="project">
+                                <img src="img/projects/4.png" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
-                                    <h4 class="mil-mb-20">Easy & Most Powerful Server Platform.</h4>
-                                    <h6>by: <span class="mil-accent">Nguta Ithya</span></h6>
+                                    <h4 class="mil-mb-20">Seamless Local PC Integration with On-Premises Domain on IONOS
+                                        Cloud</h4>
+                                    {{-- <h6>by: <span class="mil-accent">Nguta Ithya</span></h6> --}}
                                 </div>
                                 <div class="mil-card-text">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>This project focused on integrating local computers with an on-premises Active
+                                        Directory domain hosted on an IONOS Cloud server. The goal was to ensure a
+                                        secure efficient and seamless connection between local PCs and the
+                                        cloud-hosted domain while maintaining centralized user management
+                                        authentication and resource access</p>
                                 </div>
                             </div>
                         </a>
@@ -453,11 +457,11 @@
                 </div>
             </div>
             <div class="row align-items-center">
-                <div class="col-md-6 col-xl-6">
+                {{-- <div class="col-md-6 col-xl-6">
                     <a href="portfolio.html" class="mil-link mil-mb-30"><span>View All Cases</span><i
                             class="fas fa-arrow-right"></i></a>
-                </div>
-                <div class="col-md-6 col-xl-6">
+                </div> --}}
+                <div class="col-md-12 col-xl-12">
 
                     <div class="mil-adaptive-right">
                         <a href="{{route('contact-us')}}" class="mil-button mil-border mil-mb-30"><span>Get
@@ -1000,7 +1004,7 @@
                                 communication, and
                                 excellent IT Professional</p>
                             <div class="mil-author">
-                                <img src="img/faces/t5.jpg" alt="Customer">
+                                <img src="img/faces/t14.jpeg" alt="Customer">
                                 <div class="mil-name">
                                     <h6 class="mil-mb-5">Lexi Vaughn</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
@@ -1028,9 +1032,9 @@
                                 support and
                                 will work with him again in the future if needed.</p>
                             <div class="mil-author">
-                                <img src="img/faces/2.jpg" alt="Customer">
+                                <img src="img/faces/t6.webp" alt="Customer">
                                 <div class="mil-name">
-                                    <h6 class="mil-mb-5">Sienna Hayes</h6>
+                                    <h6 class="mil-mb-5">James</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
@@ -1056,9 +1060,9 @@
                                 on my Mac.
                                 Awesome experience</p>
                             <div class="mil-author">
-                                <img src="img/faces/2.jpg" alt="Customer">
+                                <img src="img/faces/t7.webp" alt="Customer">
                                 <div class="mil-name">
-                                    <h6 class="mil-mb-5">Maren Prescott</h6>
+                                    <h6 class="mil-mb-5">William</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
@@ -1083,9 +1087,9 @@
                                 me to hire him
                                 again soon as I have other issues to solve, too.</p>
                             <div class="mil-author">
-                                <img src="img/faces/2.jpg" alt="Customer">
+                                <img src="img/faces/t8.webp" alt="Customer">
                                 <div class="mil-name">
-                                    <h6 class="mil-mb-5">Elara Monroe</h6>
+                                    <h6 class="mil-mb-5">Logan</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
@@ -1110,9 +1114,9 @@
                                 as my old
                                 user. This is someone who is focused on meeting and solving your problems</p>
                             <div class="mil-author">
-                                <img src="img/faces/2.jpg" alt="Customer">
+                                <img src="img/faces/t9.webp" alt="Customer">
                                 <div class="mil-name">
-                                    <h6 class="mil-mb-5">Jocelyn Tate</h6>
+                                    <h6 class="mil-mb-5">Aiden</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
@@ -1137,9 +1141,9 @@
                                 again in the
                                 future for sure. Highly recommended freelancee</p>
                             <div class="mil-author">
-                                <img src="img/faces/2.jpg" alt="Customer">
+                                <img src="img/faces/t10.jpeg" alt="Customer">
                                 <div class="mil-name">
-                                    <h6 class="mil-mb-5">Liana Winslow</h6>
+                                    <h6 class="mil-mb-5">Blake</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
@@ -1166,9 +1170,9 @@
                                 Windows and Mac devices. He is communicative, reliable, a team player, Excellent IT
                                 Professional.</p>
                             <div class="mil-author">
-                                <img src="img/faces/2.jpg" alt="Customer">
+                                <img src="img/faces/t11.jpeg" alt="Customer">
                                 <div class="mil-name">
-                                    <h6 class="mil-mb-5">Tessa Caldwell</h6>
+                                    <h6 class="mil-mb-5">Orion</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
@@ -1194,9 +1198,9 @@
                                 solve the
                                 issue. Highly recommend him!</p>
                             <div class="mil-author">
-                                <img src="img/faces/2.jpg" alt="Customer">
+                                <img src="img/faces/t12.jpeg" alt="Customer">
                                 <div class="mil-name">
-                                    <h6 class="mil-mb-5">Brynn Delaney</h6>
+                                    <h6 class="mil-mb-5">Axel</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
@@ -1219,9 +1223,9 @@
                                 and he continues to be
                                 incredibly responsive and wonderful to work with. Will definitely use him again</p>
                             <div class="mil-author">
-                                <img src="img/faces/2.jpg" alt="Customer">
+                                <img src="img/faces/t13.webp" alt="Customer">
                                 <div class="mil-name">
-                                    <h6 class="mil-mb-5">Brielle Maddox</h6>
+                                    <h6 class="mil-mb-5">Maverick</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}
                                 </div>
                             </div>
@@ -1250,7 +1254,7 @@
                                 across the country can log on without any glitches. I am now able to log on from
                                 anywhere with our own server.</p>
                             <div class="mil-author">
-                                <img src="img/faces/2.jpg" alt="Customer">
+                                <img src="img/faces/t5.jpg" alt="Customer">
                                 <div class="mil-name">
                                     <h6 class="mil-mb-5">Junaid khan</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}

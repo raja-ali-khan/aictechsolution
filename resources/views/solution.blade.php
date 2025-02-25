@@ -118,7 +118,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/microsoft365.png" alt="img">
+                                        <img src="img/faces/t-3.png" alt="img">
                                     </div>
                                 </div>
 
@@ -170,7 +170,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/Disaster.jpg" alt="img">
+                                        <img src="img/faces/t-4.png" alt="img">
                                     </div>
                                 </div>
 
@@ -221,7 +221,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/virtualization.png" alt="img">
+                                        <img src="img/faces/t-2.png" alt="img">
                                     </div>
                                 </div>
 
@@ -272,7 +272,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/email.webp" alt="img">
+                                        <img src="img/faces/t-5.png" alt="img">
                                     </div>
                                 </div>
 
@@ -401,7 +401,6 @@
                                         ensuring seamless, secure, and scalable solutions. Whether you're migrating to
                                         the cloud or optimizing your existing setup, we’ve got you covered</p>
                                 </div>
-
                             </div>
                         </div>
                     </div>

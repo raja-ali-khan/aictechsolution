@@ -65,7 +65,7 @@
                     <div class="mil-circle-illustration">
                         <div class="mil-circle-bg"></div>
                         <div class="mil-image-frame">
-                            <img src="img/faces/t3.png" alt="img">
+                            <img src="img/faces/t-3.png" alt="img">
                         </div>
                     </div>
 
@@ -249,7 +249,7 @@
                     <div class="mil-circle-illustration">
                         <div class="mil-circle-bg"></div>
                         <div class="mil-image-frame">
-                            <img src="img/faces/t2.png" alt="img">
+                            <img src="img/faces/t-2.png" alt="img">
                         </div>
                     </div>
 

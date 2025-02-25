@@ -1254,7 +1254,7 @@
                                 across the country can log on without any glitches. I am now able to log on from
                                 anywhere with our own server.</p>
                             <div class="mil-author">
-                                <img src="img/faces/t5.jpg" alt="Customer">
+                                <img src="img/faces/t5.jpeg" alt="Customer">
                                 <div class="mil-name">
                                     <h6 class="mil-mb-5">Junaid khan</h6>
                                     {{-- <span class="mil-text-sm">Agency Design</span> --}}

@@ -11,7 +11,7 @@
                     <ul>
                         {{-- <li class="mil-has-children"> --}}
                             {{-- <a href="about-us">About us</a> --}}
-                        <li class="mil-has-children"><a href="{{route('about-us')}}">About usssss</a></li>
+                        <li class="mil-has-children"><a href="{{route('about-us')}}">About us</a></li>
                         <ul>
                             {{-- <li><a href="home-2.html">Home V2</a></li> --}}
                             {{-- <li><a href="about-us">About us</a></li> --}}

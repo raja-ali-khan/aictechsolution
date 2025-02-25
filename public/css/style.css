@@ -1606,7 +1606,7 @@ top panel
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: url(../img/logo/aictech-logo.png);
+    background-image: url(../img/logo/aictech.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1821,7 +1821,7 @@ top panel
     box-shadow: none;
 }
 .mil-top-panel.mil-top-panel-transparent .mil-logo {
-    background-image: url(../img/logo/aictech-logo.png);
+    background-image: url(../img/logo/aictech.png);
 }
 .mil-top-panel.mil-top-panel-transparent .mil-navigation nav ul li a {
     color: rgb(255, 255, 255);

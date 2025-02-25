@@ -312,9 +312,9 @@
     <section class="mil-awards">
         <div class="row m-0">
             <div class="col-xl-6 p-0 mil-relative">
-
+                {{--
                 <img src="img/photo/14.jpg" class="mil-background-image" style="object-position: center"
-                    data-swiper-parallax-scale="1.1" alt="image">
+                    data-swiper-parallax-scale="1.1" alt="image"> --}}
                 <div class="mil-overlay mil-gradient-bg"></div>
 
                 <div class="mil-fake-container mil-p-120-120">
@@ -415,7 +415,7 @@
             </div>
             <div class="col-xl-6 p-0 mil-relative" style="overflow: hidden">
 
-                <img src="img/photo/14.jpg" class="mil-background-image" style="object-position: center"
+                <img src="img/photo/four.jpg" class="mil-background-image" style="object-position: center"
                     data-swiper-parallax-scale="1.1" alt="image">
                 <div class="mil-overlay mil-with-deco mil-super-light"></div>
 

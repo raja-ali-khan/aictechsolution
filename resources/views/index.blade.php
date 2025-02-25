@@ -9,15 +9,15 @@
         <div class="swiper-container mil-banner-slideshow">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="img/photo/1.jpg" class="mil-background-image" style="object-position: center"
+                    <img src="img/photo/one.jpg" class="mil-background-image" style="object-position: center"
                         data-swiper-parallax="-100" data-swiper-parallax-scale="1.1" alt="image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="img/photo/2.jpg" class="mil-background-image" style="object-position: center"
+                    <img src="img/photo/two.jpg" class="mil-background-image" style="object-position: center"
                         data-swiper-parallax="-100" data-swiper-parallax-scale="1.1" alt="image">
                 </div>
                 <div class="swiper-slide">
-                    <img src="img/photo/3.jpg" class="mil-background-image" style="object-position: center"
+                    <img src="img/photo/three.jpg" class="mil-background-image" style="object-position: center"
                         data-swiper-parallax="-100" data-swiper-parallax-scale="1.1" alt="image">
                 </div>
             </div>

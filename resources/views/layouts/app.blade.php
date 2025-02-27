@@ -13,8 +13,12 @@
     <!-- swiper css -->
     <link rel="stylesheet" href="css/plugins/swiper.min.css">
     <!-- itsulu css -->
-    <link rel="stylesheet" href="css/style.css">
+    {{--
+    <link rel="stylesheet" href="css/style.css"> --}}
     @vite(['resources/js/app.js'])
+
+    @vite(['resources/scss/style.scss'])
+
 
     <title>AICTECH Solutions</title>
 </head>

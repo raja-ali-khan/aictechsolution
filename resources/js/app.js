@@ -1,5 +1,6 @@
 import "./bootstrap";
 import { createApp } from "vue";
+
 import ContactForm from "./components/ContactForm.vue";
 
 const app = createApp();

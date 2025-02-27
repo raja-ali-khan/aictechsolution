@@ -10,6 +10,8 @@ use Maatwebsite\Excel\Concerns\Importable;
 
 class ProductImport implements ToModel, WithHeadingRow
 {
+    use Importable; // Ensure import functionality
+
     protected $uploadedFilePath;
 
     public function __construct($uploadedFilePath)
@@ -20,11 +22,9 @@ class ProductImport implements ToModel, WithHeadingRow
 
     public function model(array $row)
     {
-        // Debugging
 
         return new Product([
             //
-
             'name' => $row['name'],
             'quantity' => $row['quantity'],
             'type' => $row['type'],

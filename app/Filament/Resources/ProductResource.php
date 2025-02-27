@@ -19,7 +19,6 @@ use Maatwebsite\Excel\Facades\Excel;
 use App\Imports\ProductImport;
 
 
-
 class ProductResource extends Resource
 {
     protected static ?string $model = Product::class;
@@ -46,7 +45,8 @@ class ProductResource extends Resource
                 // FileUpload::make('file')
                 //     ->disk('public') // ✅ Save in storage/app/public/
                 //     ->visibility('public') // ✅ Ensure file is publicly accessible
-                //     ->getUploadedFileNameForStorageUsing(fn($file) => 'uploads/' . $file->getClientOriginalName())
+                //     ->getUploadedFileNameForStorageUsing(fn($file) => 'uploads/' . $file->getClientOriginalName())              
+
 
             ]);
     }
@@ -62,11 +62,6 @@ class ProductResource extends Resource
                 Tables\Columns\TextColumn::make('price')->sortable(),
                 Tables\Columns\TextColumn::make('discount')->sortable(),
                 Tables\Columns\TextColumn::make('file')
-                // ->label('Download File')
-                // ->formatStateUsing(fn($state) => $state
-                //     ? '<a href="' . asset("storage/" . $state) . '" target="_blank" class="text-blue-500 underline">Download</a>'
-                //     : 'No File')
-                // ->html(),
             ])
             ->filters([
                 //

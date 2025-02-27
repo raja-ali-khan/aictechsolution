@@ -232,7 +232,7 @@
                                 voice, video, and instant messaging.</p>
                         </div>
                     </div>
-                    <div class="mil-divider mil-divider-left"></div>
+                    {{-- <div class="mil-divider mil-divider-left"></div> --}}
 
                 </div>
                 <div class="col-lg-6 col-xl-6">
@@ -332,7 +332,7 @@
                             </p>
                         </div>
                     </div>
-                    <div class="mil-divider mil-divider-left"></div>
+                    {{-- <div class="mil-divider mil-divider-left"></div> --}}
                 </div>
             </div>
         </div>

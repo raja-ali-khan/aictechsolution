@@ -19,7 +19,6 @@
 
     @vite(['resources/scss/style.scss'])
 
-
     <title>AICTECH Solutions</title>
 </head>
 

@@ -21,7 +21,6 @@ class ProductImport implements ToModel, WithHeadingRow
 
     public function model(array $row)
     {
-        Log::info('Row Data:', $row); // Debugging
 
         return new Product([
             'name' => $row['name'],

@@ -20,14 +20,6 @@ class SendProductDataJob implements ShouldQueue
 
     use Queueable;
 
-
-    // public function __construct($filePath)
-    // {
-    //     $this->filePath = $filePath;
-    //     // Log::info('SendProductDataJob: Received file path - ' . $filePath);
-
-    // }
-
     public function __construct(
         public $filePath, // ✅ Change from Product to string
     ) {

@@ -28,8 +28,8 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-8">
-                        <span class="mil-suptitle mil-mb-60"><span class="mil-light">The Next</span> <span
-                                class="mil-accent">Gen</span></span>
+                        {{-- <span class="mil-suptitle mil-mb-60"><span class="mil-light">The Next</span> <span
+                                class="mil-accent">Gen</span></span> --}}
                         <h1 class="mil-mb-60">
                             <span class="mil-uppercase mil-light">
                                 Welcome to <span class="mil-font-3 mil-accent">AIC Tech Solution</span><br>
@@ -40,9 +40,10 @@
                                 <a href="{{route('contact-us')}}" class="mil-button mil-border mil-light"><span>Let’s
                                         Talk</span></a>
                             </div>
-                            <p class="mil-button-descr mil-light-soft">We specialize in delivering top-notch IT support,
-                                cloud solutions, cybersecurity, and system administration services to businesses of all
-                                sizes.</p>
+                            <p class="mil-button-descr mil-light-soft">And here's some amazingReliable, secure, and
+                                scalable IT services — from
+                                Cloud Infrastructure to Cybersecurity and Remote Support — designed to keep your
+                                business running smoothly every day.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -53,13 +54,12 @@
                                         <div class="mil-window-content">
                                             <h5 class="mil-dark mil-mb-15">Experts</h5>
                                             <div class="mil-divider mil-divider-left mil-mb-15"></div>
-                                            <p class="mil-text-sm">And here's some amazing content. It's very engaging.
-                                                Right?</p>
+                                            <p class="mil-text-sm">Php Laravel,Vue js,My sql</p>
                                         </div>
                                     </div>
                                     <div class="mil-item-hover">
                                         <div class="mil-plus-icon">+</div>
-                                        <h6 class="mil-light">Dedicated Team</h6>
+                                        <h6 class="mil-light">Developers</h6>
                                     </div>
                                 </div>
                             </div>
@@ -69,13 +69,14 @@
                                         <div class="mil-window-content">
                                             <h5 class="mil-dark mil-mb-15">Experts</h5>
                                             <div class="mil-divider mil-divider-left mil-mb-15"></div>
-                                            <p class="mil-text-sm">And here's some amazing content. It's very engaging.
-                                                Right?</p>
+                                            <p class="mil-text-sm">Our expert IT team delivers reliable, efficient, and
+                                                tech-driven solutions to ensure smooth operations and lasting business
+                                                success.</p>
                                         </div>
                                     </div>
                                     <div class="mil-item-hover">
                                         <div class="mil-plus-icon">+</div>
-                                        <h6 class="mil-light">Developers</h6>
+                                        <h6 class="mil-light">Dedicated Team</h6>
                                     </div>
                                 </div>
                             </div>
@@ -85,13 +86,14 @@
                                         <div class="mil-window-content">
                                             <h5 class="mil-dark mil-mb-15">Experts</h5>
                                             <div class="mil-divider mil-divider-left mil-mb-15"></div>
-                                            <p class="mil-text-sm">And here's some amazing content. It's very engaging.
-                                                Right?</p>
+                                            <p class="mil-text-sm">Our cloud experts design, manage, and secure your
+                                                cloud infrastructure, ensuring seamless performance, scalability, and
+                                                reliable data protection.</p>
                                         </div>
                                     </div>
                                     <div class="mil-item-hover">
                                         <div class="mil-plus-icon">+</div>
-                                        <h6 class="mil-light">Designers</h6>
+                                        <h6 class="mil-light">Cloud Expert</h6>
                                     </div>
                                 </div>
                             </div>
@@ -121,6 +123,106 @@
     <div class="container">
         <div class="mil-divider"></div>
     </div>
+
+    <!-- awards -->
+    <section class="mil-awards">
+        <div class="row m-0">
+            <div class="col-xl-6 p-0 mil-relative">
+
+                <img src="img/projects/it-support-bg.jpeg" class="mil-background-image" style="object-position: center"
+                    data-swiper-parallax-scale="1.1" alt="image">
+                <div class="mil-overlay"></div>
+
+                <div class="mil-fake-container">
+                    <span class="mil-suptitle mil-suptitle-2 mil-light mil-mb-30 custom-index-text">One week of free IT
+                        support</span>
+                    <h2 class="mil-light mil-mb-30">At AICTechSolution<span class="mil-accent"> we believe</span> in
+                        results - not promises.</h2>
+                    <p class="mil-light-soft mil-mb-30">That’s why we offer <span class="mil-accent">1 week of free IT
+                            support</span> so you can experience our quality and reliability before paying a single
+                        dollar.<br /><br />
+                        <span class="mil-accent">No upfront charges</span><br />
+                        <span class="mil-accent">No risk. No commitment.</span><br />
+                        <span class="mil-accent">Only pay if you’re 100% satisfied</span><br /><br />
+                        We’re confident you’ll stay because we deliver real value — not because of long-term contracts.
+                        Our rates are <span class="mil-accent">more affordable than most IT companies</span> and our
+                        service quality speaks for itself.<br /><br />
+                        <span class="mil-accent">Test us once — and you’ll never want to switch again.</span>
+                    </p>
+                    {{-- <a href="#." class="mil-link"><span class="mil-light">About us</span><i
+                            class="fas fa-arrow-right"></i></a> --}}
+                </div>
+
+            </div>
+            <div class="col-xl-6 p-0">
+
+                <div class="row m-0">
+                    <div class="col-md-6 col-xl-6 p-0">
+
+                        <div class="mil-awards-box mil-gradient-bg">
+                            <div class="mil-icon-box mil-center">
+                                <div class="mil-icon-frame mil-icon-frame-md mil-mb-30">
+                                    <img src="img/icons/md/6l.svg" alt="icon">
+                                </div>
+                                <h5 class="mil-light mil-mb-20">IT Support Experts</h5>
+                                <p class="mil-text-sm mil-light-soft">Our certified professionals handle everything from
+                                    troubleshooting to system optimization ensuring your business runs smoothly, 24/7.
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-6 col-xl-6 p-0">
+
+                        <div class="mil-awards-box mil-box-2 mil-gradient-bg">
+                            <div class="mil-icon-box mil-center">
+                                <div class="mil-icon-frame mil-icon-frame-md mil-mb-30">
+                                    <img src="img/icons/md/6l.svg" alt="icon">
+                                </div>
+                                <h5 class="mil-light mil-mb-20">Cloud Solutions</h5>
+                                <p class="mil-text-sm mil-light-soft">We design and manage secure, scalable cloud
+                                    environments tailored to your business goals for maximum performance and
+                                    flexibility.</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-6 col-xl-6 p-0">
+
+                        <div class="mil-awards-box mil-gradient-bg">
+                            <div class="mil-icon-box mil-center">
+                                <div class="mil-icon-frame mil-icon-frame-md mil-mb-30">
+                                    <img src="img/icons/md/6l.svg" alt="icon">
+                                </div>
+                                <h5 class="mil-light mil-mb-20">Data Security & Backup</h5>
+                                <p class="mil-text-sm mil-light-soft">Protecting your business data is our top priority.
+                                    We provide secure backup and recovery solutions with advanced protection.</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-6 col-xl-6 p-0">
+
+                        <div class="mil-awards-box mil-box-2 mil-pb-60-adapt mil-gradient-bg">
+                            <div class="mil-icon-box mil-center">
+                                <div class="mil-icon-frame mil-icon-frame-md mil-mb-30">
+                                    <img src="img/icons/md/6l.svg" alt="icon">
+                                </div>
+                                <h5 class="mil-light mil-mb-20">Client-Centered Approach</h5>
+                                <p class="mil-text-sm mil-light-soft">We work like an extension of your team
+                                    transparent, responsive, and dedicated to delivering measurable results that matter.
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- awards end -->
+
 
     <!-- services -->
     <section class="mil-services mil-p-120-90">
@@ -371,9 +473,9 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
 
-                        <a href="project.html" class="mil-card">
+                        <a href="#" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/1.png" alt="project">
+                                <img src="img/projects/aic-project-1.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -393,7 +495,7 @@
 
                         <a href="#" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/2.jpeg" alt="project">
+                                <img src="img/projects/aic-project-6.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -413,7 +515,7 @@
                     <div class="swiper-slide">
                         <a href="#" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/3.png" alt="project">
+                                <img src="img/projects/aic-project-7.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -432,10 +534,9 @@
 
                     </div>
                     <div class="swiper-slide">
-
-                        <a href="project.html" class="mil-card">
+                        <a href="#" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/4.png" alt="project">
+                                <img src="img/projects/aic-project-8.jpeg" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -452,7 +553,40 @@
                                 </div>
                             </div>
                         </a>
+                    </div>
 
+                    <div class="swiper-slide">
+                        <a href="#" class="mil-card">
+                            <div class="mil-cover-frame">
+                                <img src="img/projects/aic-project-5.jpeg" alt="project">
+                            </div>
+                            <div class="mil-description">
+                                <div class="mil-card-title">
+                                    <h4 class="mil-mb-20">Secure Site-to-Site VPN Setup Between Azure and SonicWall</h4>
+                                    {{-- <h6>by: <span class="mil-accent">Nguta Ithya</span></h6> --}}
+                                </div>
+                                <div class="mil-card-text">
+                                    <p>At AIC Tech Solution, we configured a secure site-to-site VPN between Microsoft Azure and SonicWall Firewall, enabling encrypted communication between on-premises infrastructure and Azure cloud resources. This setup ensures continuous connectivity, strong encryption, and automated failover for high availability, allowing businesses to securely access cloud applications and internal servers.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="swiper-slide">
+                        <a href="#" class="mil-card">
+                            <div class="mil-cover-frame">
+                                <img src="img/projects/aic-project-2.jpeg" alt="project">
+                            </div>
+                            <div class="mil-description">
+                                <div class="mil-card-title">
+                                    <h4 class="mil-mb-20">Successful Migration from Windows Server 2008 R2 to Azure Server 2022</h4>
+                                    {{-- <h6>by: <span class="mil-accent">Nguta Ithya</span></h6> --}}
+                                </div>
+                                <div class="mil-card-text">
+                                    <p>We successfully migrated an on-premises Windows Server 2008 R2 to Azure Server 2022, ensuring improved performance, security, and scalability. The migration included data, Active Directory, and applications, all transitioned seamlessly with minimal downtime</p>
+                                </div>
+                            </div>
+                        </a>
                     </div>
                 </div>
             </div>

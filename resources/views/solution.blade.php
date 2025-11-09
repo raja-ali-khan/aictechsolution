@@ -7,15 +7,15 @@
 
     <!-- banner -->
     <div class="mil-banner-sm mil-deep-bg">
-        <img src="img/deco/map.png" alt="background" class="mil-background-image">
+        <img src="img/projects/aic-solution-banner.jpeg" alt="background" class="mil-background-image">
         <div class="mil-deco mil-deco-accent" style="top: 47%; right: 10%; transform: rotate(90deg)"></div>
         <div class="mil-banner-content">
             <div class="container mil-relative">
-                <ul class="mil-breadcrumbs mil-mb-30">
-                    <li><a href="home-1.html">Home</a></li>
+                {{-- <ul class="mil-breadcrumbs mil-mb-30">
+                    <li><a href="/">Home</a></li>
                     <li><a href="service-1.html">Solution</a></li>
-                </ul>
-                <h2 class="mil-uppercase">Our expertise spans various <br> fields including</h2>
+                </ul> --}}
+                <h2 class="mil-uppercase custom-banner-text">Our expertise spans various <br> fields including</h2>
             </div>
         </div>
     </div>
@@ -118,7 +118,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t-3.png" alt="img">
+                                        <img src="img/projects/aic-solution-5.jpeg" alt="img">
                                     </div>
                                 </div>
 
@@ -170,7 +170,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t-4.png" alt="img">
+                                        <img src="img/projects/aic-solution-3.jpeg" alt="img">
                                     </div>
                                 </div>
 
@@ -221,7 +221,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t-2.png" alt="img">
+                                        <img src="img/projects/aic-solution-2.jpeg" alt="img">
                                     </div>
                                 </div>
 
@@ -272,7 +272,7 @@
                                     data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t-5.png" alt="img">
+                                        <img src="img/projects/aic-solution-6.jpeg" alt="img">
                                     </div>
                                 </div>
 

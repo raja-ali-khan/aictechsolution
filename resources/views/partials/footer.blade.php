@@ -7,7 +7,7 @@
             <div class="row justify-content-between align-items-center">
                 <div class="col-xl-4 mil-mb-30">
 
-                    <img src="img/logo/logo-light.png" alt="" class="mil-logo mil-mb-30" style="width: 140px">
+                    <img src="img/projects/aic-logo.png" alt="" class="mil-logo mil-mb-30" style="width: 250px; height: 150px;">
 
                     <p class="mil-light-soft mil-mb-30">We specialize in delivering top-notch IT support,
                         cloud solutions, cybersecurity, and system administration services to businesses of all
@@ -66,8 +66,8 @@
                 <li class="mil-adapt-links"><a
                         href="https://www.facebook.com/profile.php?id=61572919086923">Facebook</a><a href="#.">FB</a>
                 </li>
-                <li class="mil-adapt-links"><a href="#.">Instagram</a><a href="#.">IG</a></li>
-                <li class="mil-adapt-links"><a href="#.">LinkedIn</a><a href="#.">IN</a></li>
+                <li class="mil-adapt-links"><a href="https://www.instagram.com/aictechsolution/">Instagram</a><a href="#.">IG</a></li>
+                <li class="mil-adapt-links"><a href="https://www.linkedin.com/company/109979476/admin/dashboard/">LinkedIn</a><a href="#.">IN</a></li>
                 {{-- <li class="mil-adapt-links"><a href="#.">Twitter</a><a href="#.">TW</a></li>
                 <li class="mil-adapt-links"><a href="#.">YouTube</a><a href="#.">YT</a></li> --}}
             </ul>
@@ -116,16 +116,16 @@
             <div class="row justify-content-between mil-p-120-60">
                 <div class="col-md-3 col-lg-3 col-xl-3 mil-mb-30">
 
-                    <img src="img/logo/logo-light.png" alt="" class="mil-logo mil-mb-60" style="width: 140px">
+                    <img src="img/projects/aic-logo.png" alt="" class="mil-logo mil-mb-60" style="width: 250px; height: 150px;">
 
                     <!-- <p class="mil-light mil-light-soft" style="margin-bottom: 45px">2307 Beverley Rd Brooklyn, <br>New
                         York 11226 USA.</p> -->
 
                     <ul class="mil-simple-list mil-mb-15">
-                        <li class="mil-light"><span class="mil-accent">+92</span>&nbsp;<span class="mil-light-soft">
-                                3463156700</span></li>
-                        <li><span class="mil-accent">Irfanmanzoor</span><span class="mil-light mil-light-soft">
-                                1984@gmail.com</span></li>
+                        <li class="mil-light"><span class="mil-accent">+1 (469)</span>&nbsp;<span class="mil-light-soft">
+                             501-1158</span></li>
+                        <li><span class="mil-accent">info@aictech</span><span class="mil-light mil-light-soft">
+                            solution.com</span></li>
                     </ul>
 
                 </div>
@@ -141,10 +141,10 @@
                                     <a href="https://www.facebook.com/profile.php?id=61572919086923">Facebook</a>
                                 </li>
                                 <li>
-                                    <a href="#.">Instagram</a>
+                                    <a href="https://www.instagram.com/aictechsolution/">Instagram</a>
                                 </li>
                                 <li>
-                                    <a href="#.">LinkedIn</a>
+                                    <a href="https://www.linkedin.com/company/109979476/admin/dashboard/">LinkedIn</a>
                                 </li>
                                 <!-- <li>
                                     <a href="#.">Twitter</a>

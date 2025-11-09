@@ -8,15 +8,15 @@
 
     <!-- banner -->
     <div class="mil-banner-sm mil-deep-bg">
-        <img src="img/deco/map.png" alt="background" class="mil-background-image">
+        <img src="img/projects/aic-contact-us-banner.jpeg" alt="background" class="mil-background-image">
         <div class="mil-deco mil-deco-accent" style="top: 47%; right: 10%; transform: rotate(90deg)"></div>
         <div class="mil-banner-content">
             <div class="container mil-relative">
-                <ul class="mil-breadcrumbs mil-mb-30">
-                    <li><a href="home-1.html">Home</a></li>
+                {{-- <ul class="mil-breadcrumbs mil-mb-30">
+                    <li><a href="/">Home</a></li>
                     <li><a href="contact.html">Contact Us</a></li>
-                </ul>
-                <h2 class="mil-uppercase">Let’s discuss your opportunity</h2>
+                </ul> --}}
+                <h2 class="mil-uppercase custom-banner-text">Let’s discuss your opportunity</h2>
             </div>
         </div>
     </div>

@@ -6,7 +6,7 @@
             <div class="col-lg-6">
                 <div class="mil-input-frame mil-mb-30" :class="{ 'mil-dark-input': isNotIndexRoute }">
                     <label class="mil-h6 mil-dark"><span :class="{ 'mil-light': isIndexRoute }">First Name</span>
-                        <span :class="{ 'mil-accent': isIndexRoute }">Required</span> </label>
+                        <span :class="{ 'mil-accent': isIndexRoute }">*</span> </label>
                     <input type="text" v-model="form.first_name" name="first_name" placeholder="John">
                     <div v-if="errors.first_name.length" class="text-red">
                         <span v-for="(error, index) in errors.first_name" :key="index">{{ error }}</span>
@@ -16,7 +16,7 @@
             <div class="col-lg-6">
                 <div class="mil-input-frame mil-mb-30" :class="{ 'mil-dark-input': isNotIndexRoute }">
                     <label class="mil-h6"><span :class="{ 'mil-light': isIndexRoute }">Last Name</span>
-                        <span :class="{ 'mil-accent': isIndexRoute }">Required</span></label>
+                        <span :class="{ 'mil-accent': isIndexRoute }">*</span></label>
                     <input type="text" v-model="form.last_name" name="last_name" placeholder="Jones">
                     <div v-if="errors.last_name.length" class="text-red">
                         <span v-for="(error, index) in errors.last_name" :key="index">{{ error }}</span>
@@ -26,7 +26,7 @@
             <div class="col-lg-6">
                 <div class="mil-input-frame mil-mb-30" :class="{ 'mil-dark-input': isNotIndexRoute }">
                     <label class="mil-h6"><span :class="{ 'mil-light': isIndexRoute }">Email Address</span>
-                        <span :class="{ 'mil-accent': isIndexRoute }">Required</span></label>
+                        <span :class="{ 'mil-accent': isIndexRoute }">*</span></label>
                     <input type="email" v-model="form.email" name="email" placeholder="doe@mydomain.com">
                     <div v-if="errors.email.length" class="text-red">
                         <span v-for="(error, index) in errors.email" :key="index">{{ error }}</span>
@@ -36,7 +36,7 @@
             <div class="col-lg-6">
                 <div class="mil-input-frame mil-mb-30" :class="{ 'mil-dark-input': isNotIndexRoute }">
                     <label class="mil-h6"><span :class="{ 'mil-light': isIndexRoute }">Phone</span>
-                        <span :class="{ 'mil-accent': isIndexRoute }">Required</span></label>
+                        <span :class="{ 'mil-accent': isIndexRoute }">*</span></label>
                     <input type="tel" v-model="form.phone_number" name="phone_number" placeholder="Enter your phone number">
                     <div v-if="errors.phone_number.length" class="text-red">
                         <span v-for="(error, index) in errors.phone_number" :key="index">{{ error }}</span>
@@ -46,7 +46,7 @@
             <div class="col-lg-6 mb-5">
                 <div class="mil-input-frame mil-mb-30" :class="{ 'mil-dark-input': isNotIndexRoute }">
                     <label class="mil-h6"><span :class="{ 'mil-light': isIndexRoute }">Project Description</span>
-                        <span :class="{ 'mil-accent': isIndexRoute }">Required</span></label>
+                        <span :class="{ 'mil-accent': isIndexRoute }">*</span></label>
                     <input type="text" v-model="form.project_description" name="project_description" placeholder="Enter your Message">
                     <div v-if="errors.project_description.length" class="text-red">
                         <span v-for="(error, index) in errors.project_description" :key="index">{{ error }}</span>

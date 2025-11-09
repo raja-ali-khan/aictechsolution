@@ -1608,7 +1608,7 @@ top panel
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: url(../img/logo/aictech.png);
+    background-image: url(/public/img/projects/aic-logo.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1823,7 +1823,7 @@ top panel
     box-shadow: none;
 }
 .mil-top-panel.mil-top-panel-transparent .mil-logo {
-    background-image: url(../img/logo/aictech.png);
+    background-image: url(/public/img/projects/aic-logo.png);
 }
 .mil-top-panel.mil-top-panel-transparent .mil-navigation nav ul li a {
     color: rgb(255, 255, 255);
@@ -1860,7 +1860,7 @@ top panel
         background-color: rgb(255, 255, 255);
     }
     .mil-top-panel.mil-top-panel-transparent .mil-logo {
-        background-image: url(../img/logo/aictech.png);
+        background-image: url(/public/img/projects/aic-logo.png);
     }
     .mil-top-panel.mil-top-panel-transparent .mil-navigation nav ul li a {
         color: rgb(18, 24, 32);
@@ -5395,4 +5395,24 @@ additional pages
 .alert-error,
 .alert-error h5 {
     color: red;
+}
+
+
+// custom css
+.custom-index-text{
+    color: rgb(245, 124, 0);
+    font-size: 32px !important;
+}
+
+.mil-banner-sm .mil-background-image{
+    filter: invert(0%) !important; /* 0% means no inversion */
+    opacity: 1 !important;
+}
+
+.mil-circle-illustration .mil-image-frame img{
+    filter: grayscale(0);
+}
+
+.custom-banner-text{
+    color: white;
 }

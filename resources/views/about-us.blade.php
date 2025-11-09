@@ -6,13 +6,13 @@
 <div class="mil-wrapper">
 
     <!-- banner -->
-    <div class="mil-banner-sm mil-deep-bg">
-        <img src="img/deco/map.png" alt="background" class="mil-background-image">
+    <div class="mil-banner-sm mil-deep-bg custom-about-banner">
+        <img src="img/projects/about-us-banner.jpeg" alt="background" class="mil-background-image">
         <div class="mil-deco mil-deco-accent" style="top: 47%; right: 10%; transform: rotate(90deg)"></div>
         <div class="mil-banner-content">
             <div class="container mil-relative">
                 <ul class="mil-breadcrumbs mil-mb-30">
-                    <li><a href="home-1.html">Home</a></li>
+                    <li><a href="/">Home</a></li>
                     <li><a href="about.html">About us</a></li>
                 </ul>
                 <h2 class="mil-uppercase">Enterprise</h2>
@@ -65,7 +65,7 @@
                     <div class="mil-circle-illustration">
                         <div class="mil-circle-bg"></div>
                         <div class="mil-image-frame">
-                            <img src="img/faces/t-3.png" alt="img">
+                            <img src="img/projects/about-one.jpg" alt="img">
                         </div>
                     </div>
 
@@ -76,19 +76,15 @@
                     <h2 class="mil-mb-50">Our expertise spans <br><span class="mil-accent">various fields
                             including</span></h2>
 
-                    <p class="mil-mb-50">Cloud Services: We excel at managing IONOS, Azure, and other cloud
-                        environments, ensuring robust, scalable, and secure infrastructure for your business.
-                        System Administration: Our team is proficient in Windows Server Administration (2012-2022),
-                        including migration, setup, and maintenance, ensuring your systems run smoothly.
-                        Office 365 & Microsoft Solutions: We offer full-service Office 365 support, including migration,
-                        configuration, and optimization, to ensure your team stays connected and productive.
-                        Virtualization Technologies: Whether through Bootcamp, Parallels, or other virtualization
-                        platforms, we bring flexibility and efficiency to your computing environment.
-                        Backup and Recovery: With advanced tools like Datto BCDR and Acronis Backup, we ensure that your
-                        data is always safe and recoverable in case of emergencies.
-                        We are committed to delivering reliable, high-quality IT solutions that help businesses stay
-                        competitive in an ever-changing technology landscape. Whether you're a small business or a large
-                        enterprise, we offer services tailored to your unique needs and goals.</p>
+                    <p class="mil-mb-50">At AICTechSolution, we believe technology should make your business faster,
+                        safer, and more efficient — not complicated.
+                        With years of hands-on experience in IT infrastructure, cloud environments, and system
+                        administration, we deliver end-to-end technology solutions that drive performance and
+                        reliability.
+                        Our certified IT professionals are trusted by businesses worldwide to manage and maintain
+                        critical systems, protect digital assets, and ensure seamless connectivity across all platforms.
+                        Whether you need a fully managed IT environment or remote technical support, we’ve got you
+                        covered — anytime, anywhere.</p>
 
                     <div class="row align-items-end">
 
@@ -117,7 +113,7 @@
                         <div class="col-xl-5">
 
                             <a href="team-single.html" class="mil-post-sm mil-mb-60">
-                                <div class="mil-cover-frame"><img src="img/faces/1.jpg" alt="cover"></div>
+                                {{-- <div class="mil-cover-frame"><img src="img/faces/1.jpg" alt="cover"></div> --}}
                                 <div class="mil-description">
                                     <h4 class="mil-font-3 mil-accent">Muhammad Irfan</h4>
                                     <p class="mil-text-sm">CEO & Co-Founder</p>
@@ -156,21 +152,21 @@
                     <div class="row">
                         <div class="col-lg-6">
 
-                            <h6 class="mil-mb-30"><span class="mil-accent">16+</span>&nbsp; Managed IT Services</h6>
+                            <h6 class="mil-mb-30"> Managed IT Services</h6>
 
                             <div class="mil-divider mil-divider-left mil-mb-60"></div>
 
                         </div>
                         <div class="col-lg-6">
 
-                            <h6 class="mil-mb-30"><span class="mil-accent">3+</span>&nbsp; Cloud Services</h6>
+                            <h6 class="mil-mb-30"> Cloud Services</h6>
 
                             <div class="mil-divider mil-divider-left mil-mb-60"></div>
 
                         </div>
                         <div class="col-lg-6">
 
-                            <h6 class="mil-mb-30"><span class="mil-accent">360+</span>&nbsp;Email Management & Support
+                            <h6 class="mil-mb-30">Email Management & Support
                             </h6>
 
                             <div class="mil-divider mil-divider-left mil-mb-60"></div>
@@ -178,16 +174,7 @@
                         </div>
                         <div class="col-lg-6">
 
-                            <h6 class="mil-mb-30"><span class="mil-accent">100+</span>&nbsp; Cybersecurity Solutions
-                            </h6>
-
-                            <div class="mil-divider mil-divider-left mil-mb-60"></div>
-
-                        </div>
-
-                        <div class="col-lg-6">
-
-                            <h6 class="mil-mb-30"><span class="mil-accent">200+</span>&nbsp; IT Consulting & Strategy
+                            <h6 class="mil-mb-30"> Cybersecurity Solutions
                             </h6>
 
                             <div class="mil-divider mil-divider-left mil-mb-60"></div>
@@ -196,7 +183,7 @@
 
                         <div class="col-lg-6">
 
-                            <h6 class="mil-mb-30"><span class="mil-accent">150+</span>&nbsp; Virtualization Solutions
+                            <h6 class="mil-mb-30"> IT Consulting & Strategy
                             </h6>
 
                             <div class="mil-divider mil-divider-left mil-mb-60"></div>
@@ -205,7 +192,16 @@
 
                         <div class="col-lg-6">
 
-                            <h6 class="mil-mb-30"><span class="mil-accent">10+</span>&nbsp; Server & Network Security
+                            <h6 class="mil-mb-30"> Virtualization Solutions
+                            </h6>
+
+                            <div class="mil-divider mil-divider-left mil-mb-60"></div>
+
+                        </div>
+
+                        <div class="col-lg-6">
+
+                            <h6 class="mil-mb-30"> Server & Network Security
                             </h6>
 
                             <div class="mil-divider mil-divider-left mil-mb-60"></div>
@@ -280,7 +276,7 @@
         <div class="container">
 
             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Company</span>
-            <h2 class="mil-mb-120">Let us handle your IT, <br> you can focus on growing <br> your business.</h2>
+            <h2 class="mil-mb-120">Empowering Businesses <br> with Smart IT Solutions</h2>
 
             <div class="mil-divider"></div>
             <div class="mil-line-icon-box">
@@ -294,15 +290,14 @@
                     </div>
                     <div class="col-xl-4">
 
-                        <h4 class="mil-mb-30">IT Project Management</h4>
+                        <h4 class="mil-mb-30">Cloud Infrastructure</h4>
 
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">Project Planning & Coordination: Overseeing IT-related
-                            projects from planning to implementation, ensuring timely delivery.
-                            Vendor Management: Coordinating with third-party vendors for software, hardware, or cloud
-                            services, ensuring compliance with requirements.</p>
+                        <p class="mil-box-text mil-mb-30">Build a smarter, more scalable future in the cloud.
+                            We design, deploy, and manage cloud environments that are secure, efficient, and tailored to
+                            your business needs — ensuring uptime, performance, and peace of mind.</p>
 
                     </div>
                 </div>
@@ -319,15 +314,15 @@
                     </div>
                     <div class="col-xl-4">
 
-                        <h4 class="mil-mb-30">IT Support & Troubleshooting</h4>
+                        <h4 class="mil-mb-30">Cybersecurity</h4>
 
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">Mac & Windows Support: Offering comprehensive support for both
-                            Mac and Windows devices, ensuring they run smoothly and securely.
-                            Hardware & Software Troubleshooting: Diagnosing and resolving issues with both hardware and
-                            software to minimize downtime.</p>
+                        <p class="mil-box-text mil-mb-30">Protect what matters most.
+                            Our advanced security solutions safeguard your systems, networks, and data from
+                            ever-evolving cyber threats. We provide real-time monitoring, threat detection, and
+                            proactive defense to keep your business safe 24/7..</p>
 
                     </div>
                 </div>
@@ -344,15 +339,14 @@
                     </div>
                     <div class="col-xl-4">
 
-                        <h4 class="mil-mb-30">VoIP & Communication Solutions</h4>
+                        <h4 class="mil-mb-30">Backup & Disaster Recovery</h4>
 
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">VoIP System Setup: Installing and configuring Voice over IP
-                            (VoIP) systems for cost-effective communication.
-                            Unified Communication Solutions: Streamlining communication with integrated services for
-                            voice, video, and instant messaging.</p>
+                        <p class="mil-box-text mil-mb-30">Your data, always secure and recoverable.
+                            We create comprehensive backup and recovery strategies that protect your business from
+                            unexpected data loss, downtime, and disasters — so you can operate with confidence.</p>
 
                     </div>
                 </div>
@@ -369,17 +363,14 @@
                     </div>
                     <div class="col-xl-4">
 
-                        <h4 class="mil-mb-30">Server & Network Security</h4>
+                        <h4 class="mil-mb-30">IT Consulting</h4>
 
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">Network Security Audits: Conducting regular audits to identify
-                            and mitigate network vulnerabilities.
-                            Patch Management: Keeping your software and systems up-to-date with the latest security
-                            patches and updates.
-                            VPN & Remote Access Solutions: Configuring secure VPNs for remote access to internal systems
-                            and networks.</p>
+                        <p class="mil-box-text mil-mb-30">Technology that fits your goals.
+                            We analyze, plan, and implement IT strategies that align with your business vision — helping
+                            you optimize performance, enhance productivity, and reduce costs.</p>
 
                     </div>
                 </div>
@@ -396,15 +387,14 @@
                     </div>
                     <div class="col-xl-4">
 
-                        <h4 class="mil-mb-30">Backup & Disaster Recovery</h4>
+                        <h4 class="mil-mb-30">Network Solutions</h4>
 
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">Data Backup Solutions: Implementation of backup strategies to
-                            ensure critical data is regularly backed up and easily recoverable.
-                            Disaster Recovery Planning: Developing disaster recovery plans to ensure rapid recovery of
-                            IT systems in case of a failure or disaster.</p>
+                        <p class="mil-box-text mil-mb-30">Stay connected, stay productive.We design and manage fast,
+                            reliable, and secure networks that power your business
+                            communications and workflows without interruption.</p>
 
                     </div>
                 </div>
@@ -520,7 +510,6 @@
 
                 </div>
                 <div class="col-md-6 col-xl-4">
-
                     <div class="mil-icon-box-2 mil-mb-60">
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                             <img src="img/icons/md/10.svg" alt="icon">
@@ -533,9 +522,27 @@
                                 and more flexible working conditions.</p>
                         </div>
                     </div>
-
-
                 </div>
+
+                <div class="col-md-6 col-xl-4">
+                    <div class="mil-icon-box-2 mil-mb-60">
+                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                            <img src="img/icons/md/10.svg" alt="icon">
+                        </div>
+                        <div class="mil-box-text">
+                            <h4 class="mil-mb-30">Outsource Smart — Grow Faster with AIC Tech Solution</h4>
+                            <p class="mil-box-text">At AIC Tech Solution, we provide complete Business Process
+                                Outsourcing (BPO) services to help your company save time, reduce costs, and increase
+                                efficiency. Our expert team handles customer support, technical assistance, data entry,
+                                and virtual administrative tasks with precision and care. We use advanced technology to
+                                ensure accuracy, speed, and data security in every process. Whether you need help
+                                managing customer communication or back-office operations, AIC Tech Solution acts as
+                                your reliable outsourcing partner — so you can focus on growing your business while we
+                                take care of the rest.</p>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
@@ -545,7 +552,7 @@
     <section class="mil-contact mil-gradient-bg mil-p-120-0">
         <div class="mil-deco mil-deco-accent" style="top: 0; right: 10%;"></div>
         <div class="container">
-            <h2 class="mil-light mil-mb-90">Contact <span class="mil-accent">Me</span></h2>
+            <h2 class="mil-light mil-mb-90">Contact <span class="mil-accent">Us</span></h2>
             <contact-form :header-type="'{{ $header_type }}'"></contact-form>
         </div>
     </section>

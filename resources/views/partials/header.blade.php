@@ -5,7 +5,7 @@
     ">
         <!-- mil-top-panel-transparent -->
         <div class="container">
-            <a href="/" class="mil-logo" style="width: 140px"></a>
+            <a href="/" class="mil-logo" style="width: 250px; height: 150px;"></a>
             <div class="mil-navigation">
                 <nav>
                     <ul>
